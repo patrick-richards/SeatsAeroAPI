@@ -1,0 +1,5654 @@
+[
+    {
+        "longitude": 6.18639,
+        "iata": "AAH",
+        "latitude": 50.8231,
+        "name": "American Airlines - Major Hubs (AAH)"
+    },
+    {
+        "longitude": 9.84924,
+        "name": "Aalborg Airport (AAL)",
+        "latitude": 57.0928,
+        "iata": "AAL"
+    },
+    {
+        "longitude": -46.9604,
+        "latitude": -19.5632,
+        "name": "Romeu Zema Airport (AAX)",
+        "iata": "AAX"
+    },
+    {
+        "name": "Abilene Regional Airport (ABI)",
+        "iata": "ABI",
+        "latitude": 32.4113,
+        "longitude": -99.6819
+    },
+    {
+        "longitude": -3.92629,
+        "name": "Port Bouet Airport (ABJ)",
+        "latitude": 5.26139,
+        "iata": "ABJ"
+    },
+    {
+        "latitude": 35.0402,
+        "longitude": -106.609,
+        "iata": "ABQ",
+        "name": "Albuquerque International Sunport Airport (ABQ)"
+    },
+    {
+        "longitude": 7.26317,
+        "iata": "ABV",
+        "latitude": 9.00679,
+        "name": "Nnamdi Azikiwe International Airport (ABV)"
+    },
+    {
+        "iata": "ABX",
+        "latitude": -36.0678,
+        "longitude": 146.958,
+        "name": "Albury Airport (ABX)"
+    },
+    {
+        "name": "Aberdeen Dyce Airport (ABZ)",
+        "iata": "ABZ",
+        "longitude": -2.19778,
+        "latitude": 57.2019
+    },
+    {
+        "latitude": 5.60519,
+        "name": "Kotoka International Airport (ACC)",
+        "iata": "ACC",
+        "longitude": -0.166786
+    },
+    {
+        "name": "Lanzarote Airport (ACE)",
+        "iata": "ACE",
+        "longitude": -13.6052,
+        "latitude": 28.9455
+    },
+    {
+        "latitude": 41.2531,
+        "longitude": -70.0602,
+        "iata": "ACK",
+        "name": "Nantucket Memorial Airport (ACK)"
+    },
+    {
+        "iata": "ACV",
+        "name": "Arcata Airport (ACV)",
+        "longitude": -124.109,
+        "latitude": 40.9781
+    },
+    {
+        "latitude":38.286832186,
+        "longitude": 27.152999388,
+        "name": "Adnan Menderes International Airport (ADB)",
+        "iata": "ADB"
+    },
+    {
+        "latitude": 8.97778,
+        "longitude": 38.7994,
+        "iata": "ADD",
+        "name": "Addis Ababa Bole International Airport (ADD)"
+    },
+    {
+        "latitude": 51.878,
+        "longitude": -176.646,
+        "iata": "ADK",
+        "name": "Adak Airport (ADK)"
+    },
+    {
+        "longitude": 138.531,
+        "iata": "ADL",
+        "latitude": -34.945,
+        "name": "Adelaide International Airport (ADL)"
+    },
+    {
+        "longitude": -81.7112,
+        "name": "Gustavo Rojas Pinilla International Airport (ADZ)",
+        "iata": "ADZ",
+        "latitude": 12.5836
+    },
+    {
+        "iata": "AEP",
+        "longitude": -58.4164,
+        "latitude": -34.5589,
+        "name": "Jorge Newbery Airpark (AEP)"
+    },
+    {
+        "iata": "AFL",
+        "name": "Piloto Osvaldo Marques Dias Airport (AFL)",
+        "latitude": -9.86639,
+        "longitude": -56.105
+    },
+    {
+        "longitude": -9.41307,
+        "name": "Al Massira Airport (AGA)",
+        "iata": "AGA",
+        "latitude": 30.325
+    },
+    {
+        "name": "Málaga Airport (AGP)",
+        "longitude": -4.49911,
+        "iata": "AGP",
+        "latitude": 36.6749
+    },
+    {
+        "latitude": 41.9236,
+        "iata": "AJA",
+        "name": "Ajaccio-Napoléon Bonaparte Airport (AJA)",
+        "longitude": 8.80292
+    },
+    {
+        "iata": "AJU",
+        "name": "Santa Maria Airport (AJU)",
+        "latitude": -10.984,
+        "longitude": -37.0703
+    },
+    {
+        "longitude": 142.447,
+        "name": "Asahikawa Airport (AKJ)",
+        "iata": "AKJ",
+        "latitude": 43.6708
+    },
+    {
+        "longitude": 174.792,
+        "name": "Auckland International Airport (AKL)",
+        "iata": "AKL",
+        "latitude": -37.0081
+    },
+    {
+        "iata": "ALA",
+        "name": "Almaty Airport (ALA)",
+        "latitude": 43.3521,
+        "longitude": 77.0405
+    },
+    {
+        "longitude": -73.8017,
+        "name": "Albany International Airport (ALB)",
+        "latitude": 42.7483,
+        "iata": "ALB"
+    },
+    {
+        "latitude": 38.2822,
+        "longitude": -0.558156,
+        "iata": "ALC",
+        "name": "Alicante International Airport (ALC)"
+    },
+    {
+        "iata": "ALG",
+        "name": "Houari Boumediene Airport (ALG)",
+        "latitude": 36.691,
+        "longitude": 3.21541
+    },
+    {
+        "name": "Sardar Vallabhbhai Patel International Airport (AMD)",
+        "latitude": 23.0772,
+        "longitude": 72.6347,
+        "iata": "AMD"
+    },
+    {
+        "iata": "AMM",
+        "longitude": 35.9932,
+        "latitude": 31.7226,
+        "name": "Queen Alia International Airport (AMM)"
+    },
+    {
+        "name": "Pattimura Airport, Ambon (AMQ)",
+        "latitude": -3.71026,
+        "iata": "AMQ",
+        "longitude": 128.089
+    },
+    {
+        "iata": "AMS",
+        "longitude": 4.76389,
+        "name": "Amsterdam Airport Schiphol (AMS)",
+        "latitude": 52.3086
+    },
+    {
+        "name": "Ted Stevens Anchorage International Airport (ANC)",
+        "longitude": -149.996,
+        "iata": "ANC",
+        "latitude": 61.1744
+    },
+    {
+        "iata": "ANU",
+        "name": "V.C. Bird International Airport (ANU)",
+        "latitude": 17.1367,
+        "longitude": -61.7927
+    },
+    {
+        "iata": "ANZ",
+        "name": "Australia & New Zealand - Large Airports (ANZ)",
+        "latitude": -25.0325,
+        "longitude": 132.275
+    },
+    {
+        "latitude": 40.7347,
+        "iata": "AOJ",
+        "name": "Aomori Airport (AOJ)",
+        "longitude": 140.691
+    },
+    {
+        "latitude": -13.83,
+        "iata": "APW",
+        "name": "Faleolo International Airport (APW)",
+        "longitude": -172.008
+    },
+    {
+        "name": "Aqaba King Hussein International Airport (AQJ)",
+        "latitude": 29.6116,
+        "iata": "AQJ",
+        "longitude": 35.0181
+    },
+    {
+        "name": "Rodríguez Ballón International Airport (AQP)",
+        "longitude": -71.5831,
+        "iata": "AQP",
+        "latitude": -16.3411
+    },
+    {
+        "latitude": 59.6519,
+        "longitude": 17.9186,
+        "name": "Stockholm-Arlanda Airport (ARN)",
+        "iata": "ARN"
+    },
+    {
+        "longitude": 42.645,
+        "latitude": 13.0718,
+        "name": "Asia - Large Airports (ASA)",
+        "iata": "ASA"
+    },
+    {
+        "iata": "ASB",
+        "latitude": 37.9868,
+        "longitude": 58.361,
+        "name": "Ashgabat Airport (ASB)"
+    },
+    {
+        "longitude": -106.869,
+        "iata": "ASE",
+        "name": "Aspen-Pitkin Co\/Sardy Field (ASE)",
+        "latitude": 39.2232
+    },
+    {
+        "iata": "ASP",
+        "latitude": -23.8067,
+        "longitude": 133.902,
+        "name": "Alice Springs Airport (ASP)"
+    },
+    {
+        "longitude": 35.4954,
+        "latitude": 38.7704,
+        "name": "Kayseri Erkilet Airport (ASR)",
+        "iata": "ASR"
+    },
+    {
+        "latitude": -25.24,
+        "iata": "ASU",
+        "longitude": -57.52,
+        "name": "Silvio Pettirossi International Airport (ASU)"
+    },
+    {
+        "name": "Athens International Airport (ATH)",
+        "latitude": 37.9364,
+        "longitude": 23.9445,
+        "iata": "ATH"
+    },
+    {
+        "iata": "ATL",
+        "longitude": -84.4281,
+        "name": "Hartsfield Jackson Atlanta International Airport (ATL)",
+        "latitude": 33.6367
+    },
+    {
+        "longitude": -52.254,
+        "iata": "ATM",
+        "latitude": -3.25391,
+        "name": "Altamira Airport (ATM)"
+    },
+    {
+        "latitude": 31.7096,
+        "longitude": 74.7973,
+        "iata": "ATQ",
+        "name": "Sri Guru Ram Dass Jee International Airport (ATQ)"
+    },
+    {
+        "name": "Queen Beatrix International Airport (AUA)",
+        "iata": "AUA",
+        "latitude": 12.5014,
+        "longitude": -70.0152
+    },
+    {
+        "longitude": -69.7973,
+        "latitude": 44.3206,
+        "iata": "AUG",
+        "name": "Augusta State Airport (AUG)"
+    },
+    {
+        "iata": "AUH",
+        "latitude": 24.433,
+        "longitude": 54.6511,
+        "name": "Abu Dhabi International Airport (AUH)"
+    },
+    {
+        "name": "Australia - Large Airports (AUL)",
+        "latitude": 8.14528,
+        "iata": "AUL",
+        "longitude": 171.173
+    },
+    {
+        "latitude": 30.1945,
+        "longitude": -97.6699,
+        "iata": "AUS",
+        "name": "Austin Bergstrom International Airport (AUS)"
+    },
+    {
+        "latitude": 35.4362,
+        "longitude": -82.5418,
+        "name": "Asheville Regional Airport (AVL)",
+        "iata": "AVL"
+    },
+    {
+        "longitude": -75.7234,
+        "iata": "AVP",
+        "name": "Wilkes Barre Scranton International Airport (AVP)",
+        "latitude": 41.3385
+    },
+    {
+        "iata": "AVV",
+        "latitude": -38.0394,
+        "name": "Avalon Airport (AVV)",
+        "longitude": 144.469
+    },
+    {
+        "name": "Wallblake Airport (AXA)",
+        "longitude": -63.0551,
+        "iata": "AXA",
+        "latitude": 18.2048
+    },
+    {
+        "latitude": -25.1861,
+        "name": "Ayers Rock Connellan Airport (AYQ)",
+        "longitude": 130.976,
+        "iata": "AYQ"
+    },
+    {
+        "iata": "AYT",
+        "latitude": 36.8987,
+        "name": "Antalya International Airport (AYT)",
+        "longitude": 30.8005
+    },
+    {
+        "iata": "BAH",
+        "longitude": 50.6336,
+        "name": "Bahrain International Airport (BAH)",
+        "latitude": 26.2708
+    },
+    {
+        "longitude": -74.7808,
+        "name": "Ernesto Cortissoz International Airport (BAQ)",
+        "iata": "BAQ",
+        "latitude": 10.8896
+    },
+    {
+        "iata": "BCN",
+        "longitude": 2.07846,
+        "name": "Barcelona International Airport (BCN)",
+        "latitude": 41.2971
+    },
+    {
+        "iata": "BDA",
+        "latitude": 32.364,
+        "longitude": -64.6787,
+        "name": "L.F. Wade International International Airport (BDA)"
+    },
+    {
+        "longitude": 152.319,
+        "iata": "BDB",
+        "name": "Bundaberg Airport (BDB)",
+        "latitude": -24.9039
+    },
+    {
+        "name": "Bradley International Airport (BDL)",
+        "latitude": 41.9392,
+        "iata": "BDL",
+        "longitude": -72.6833
+    },
+    {
+        "latitude": 22.3362,
+        "iata": "BDQ",
+        "longitude": 73.2263,
+        "name": "Vadodara Airport (BDQ)"
+    },
+    {
+        "latitude": 40.6576,
+        "name": "Brindisi – Salento Airport (BDS)",
+        "longitude": 17.947,
+        "iata": "BDS"
+    },
+    {
+        "latitude": 44.8184,
+        "iata": "BEG",
+        "longitude": 20.3091,
+        "name": "Belgrade Nikola Tesla Airport (BEG)"
+    },
+    {
+        "latitude": -1.37925,
+        "longitude": -48.4763,
+        "iata": "BEL",
+        "name": "Val de Cans\/Júlio Cezar Ribeiro International Airport (BEL)"
+    },
+    {
+        "iata": "BER",
+        "name": "Berlin Brandenburg Airport (BER)",
+        "latitude": 52.3514,
+        "longitude": 13.4939
+    },
+    {
+        "iata": "BEY",
+        "name": "Beirut Rafic Hariri International Airport (BEY)",
+        "latitude": 33.8209,
+        "longitude": 35.4884
+    },
+    {
+        "latitude": 13.0746,
+        "longitude": -59.4925,
+        "iata": "BGI",
+        "name": "Sir Grantley Adams International Airport (BGI)"
+    },
+    {
+        "latitude": 60.2934,
+        "longitude": 5.21814,
+        "iata": "BGO",
+        "name": "Bergen Airport Flesland (BGO)"
+    },
+    {
+        "longitude": -68.8281,
+        "name": "Bangor International Airport (BGR)",
+        "iata": "BGR",
+        "latitude": 44.8074
+    },
+    {
+        "latitude": -31.3905,
+        "iata": "BGX",
+        "name": "Comandante Gustavo Kraemer Airport (BGX)",
+        "longitude": -54.1122
+    },
+    {
+        "name": "Hancock County-Bar Harbor Airport (BHB)",
+        "iata": "BHB",
+        "longitude": -68.3615,
+        "latitude": 44.45
+    },
+    {
+        "name": "Bhuj Airport (BHJ)",
+        "latitude": 23.2878,
+        "longitude": 69.6702,
+        "iata": "BHJ"
+    },
+    {
+        "longitude": -86.7535,
+        "iata": "BHM",
+        "latitude": 33.5629,
+        "name": "Birmingham-Shuttlesworth International Airport (BHM)"
+    },
+    {
+        "name": "Broken Hill Airport (BHQ)",
+        "longitude": 141.472,
+        "latitude": -32.0014,
+        "iata": "BHQ"
+    },
+    {
+        "name": "Birmingham International Airport (BHX)",
+        "latitude": 52.4539,
+        "longitude": -1.74803,
+        "iata": "BHX"
+    },
+    {
+        "iata": "BIA",
+        "name": "Bastia-Poretta Airport (BIA)",
+        "latitude": 42.5527,
+        "longitude": 9.48373
+    },
+    {
+        "name": "Frans Kaisiepo Airport (BIK)",
+        "longitude": 136.108,
+        "iata": "BIK",
+        "latitude": -1.19002
+    },
+    {
+        "longitude": -108.543,
+        "latitude": 45.8077,
+        "iata": "BIL",
+        "name": "Billings Logan International Airport (BIL)"
+    },
+    {
+        "longitude": -2.91061,
+        "name": "Bilbao Airport (BIO)",
+        "latitude": 43.3011,
+        "iata": "BIO"
+    },
+    {
+        "iata": "BIQ",
+        "name": "Biarritz-Anglet-Bayonne Airport (BIQ)",
+        "latitude": 43.4683,
+        "longitude": -1.53111
+    },
+    {
+        "iata": "BIS",
+        "latitude": 46.7727,
+        "longitude": -100.746,
+        "name": "Bismarck Municipal Airport (BIS)"
+    },
+    {
+        "longitude": 27.6643,
+        "name": "Milas Bodrum International Airport (BJV)",
+        "iata": "BJV",
+        "latitude": 37.2506
+    },
+    {
+        "longitude": -101.481,
+        "iata": "BJX",
+        "name": "Del Bajío International Airport (BJX)",
+        "latitude": 20.9935
+    },
+    {
+        "iata": "BKK",
+        "latitude": 13.6811,
+        "name": "Suvarnabhumi Airport (BKK)",
+        "longitude": 100.747
+    },
+    {
+        "latitude": -3.8637,
+        "name": "Fatmawati Soekarno Airport (BKS)",
+        "longitude": 102.339,
+        "iata": "BKS"
+    },
+    {
+        "iata": "BLQ",
+        "latitude": 44.5354,
+        "longitude": 11.2887,
+        "name": "Bologna Guglielmo Marconi Airport (BLQ)"
+    },
+    {
+        "latitude": 13.1979,
+        "iata": "BLR",
+        "name": "Kempegowda International Airport (BLR)",
+        "longitude": 77.7063
+    },
+    {
+        "iata": "BME",
+        "name": "Broome International Airport (BME)",
+        "longitude": 122.232,
+        "latitude": -17.9447
+    },
+    {
+        "longitude": -86.6782,
+        "iata": "BNA",
+        "name": "Nashville International Airport (BNA)",
+        "latitude": 36.1245
+    },
+    {
+        "iata": "BNE",
+        "longitude": 153.117,
+        "latitude": -27.3842,
+        "name": "Brisbane International Airport (BNE)"
+    },
+    {
+        "longitude": 153.562,
+        "name": "Ballina Byron Gateway Airport (BNK)",
+        "latitude": -28.8339,
+        "iata": "BNK"
+    },
+    {
+        "iata": "BOD",
+        "latitude": 44.8283,
+        "name": "Bordeaux-Mérignac Airport (BOD)",
+        "longitude": -0.715556
+    },
+    {
+        "name": "El Dorado International Airport (BOG)",
+        "iata": "BOG",
+        "longitude": -74.1469,
+        "latitude": 4.70159
+    },
+    {
+        "latitude": 43.5644,
+        "longitude": -116.223,
+        "name": "Boise Air Terminal\/Gowen field (BOI)",
+        "iata": "BOI"
+    },
+    {
+        "iata": "BOM",
+        "latitude": 19.0887,
+        "name": "Chhatrapati Shivaji International Airport (BOM)",
+        "longitude": 72.8679
+    },
+    {
+        "name": "Flamingo International Airport (BON)",
+        "longitude": -68.2685,
+        "iata": "BON",
+        "latitude": 12.131
+    },
+    {
+        "latitude": 67.2692,
+        "longitude": 14.3653,
+        "iata": "BOO",
+        "name": "Bodø Airport (BOO)"
+    },
+    {
+        "name": "General Edward Lawrence Logan International Airport (BOS)",
+        "longitude": -71.0052,
+        "iata": "BOS",
+        "latitude": 42.3643
+    },
+    {
+        "longitude": 116.894,
+        "iata": "BPN",
+        "latitude": -1.26827,
+        "name": "Sultan Aji Muhamad Sulaiman Airport (BPN)"
+    },
+    {
+        "longitude": -39.0809,
+        "iata": "BPS",
+        "latitude": -16.4386,
+        "name": "Porto Seguro Airport (BPS)"
+    },
+    {
+        "longitude": 115.402,
+        "iata": "BQB",
+        "latitude": -33.6884,
+        "name": "Busselton Regional Airport (BQB)"
+    },
+    {
+        "iata": "BQN",
+        "name": "Rafael Hernandez Airport (BQN)",
+        "latitude": 18.4949,
+        "longitude": -67.1294
+    },
+    {
+        "iata": "BRC",
+        "longitude": -71.1575,
+        "name": "San Carlos De Bariloche Airport (BRC)",
+        "latitude": -41.1512
+    },
+    {
+        "longitude": 8.78667,
+        "name": "Bremen Airport (BRE)",
+        "iata": "BRE",
+        "latitude": 53.0475
+    },
+    {
+        "iata": "BRI",
+        "latitude": 41.1389,
+        "name": "Bari Karol Wojtyła Airport (BRI)",
+        "longitude": 16.7606
+    },
+    {
+        "latitude": 50.9014,
+        "longitude": 4.48444,
+        "iata": "BRU",
+        "name": "Brussels Airport (BRU)"
+    },
+    {
+        "longitude": -156.766,
+        "latitude": 71.2854,
+        "name": "Wiley Post Will Rogers Memorial Airport (BRW)",
+        "iata": "BRW"
+    },
+    {
+        "latitude": -15.8692,
+        "name": "Presidente Juscelino Kubistschek International Airport (BSB)",
+        "longitude": -47.9208,
+        "iata": "BSB"
+    },
+    {
+    	"latitude": 47.5873,
+    	"longitude": 7.5242,
+        "iata": "BSL",
+        "name": "EuroAirport Basel-Mulhouse-Freiburg Airport (BSL)"
+    },
+    {
+        "iata": "BTJ",
+        "longitude": 95.4206,
+        "name": "Sultan Iskandar Muda International Airport (BTJ)",
+        "latitude": 5.52287
+    },
+    {
+        "latitude": 30.5332,
+        "iata": "BTR",
+        "name": "Baton Rouge Metropolitan, Ryan Field (BTR)",
+        "longitude": -91.1496
+    },
+    {
+        "iata": "BTV",
+        "longitude": -73.1533,
+        "name": "Burlington International Airport (BTV)",
+        "latitude": 44.4719
+    },
+    {
+        "name": "Budapest Ferenc Liszt International Airport (BUD)",
+        "longitude": 19.2611,
+        "iata": "BUD",
+        "latitude": 47.4298
+    },
+    {
+        "latitude": 42.9405,
+        "longitude": -78.7322,
+        "iata": "BUF",
+        "name": "Buffalo Niagara International Airport (BUF)"
+    },
+    {
+        "longitude": -118.359,
+        "latitude": 34.2007,
+        "iata": "BUR",
+        "name": "Bob Hope Airport (BUR)"
+    },
+    {
+        "name": "Atlas Brasil Cantanhede Airport (BVB)",
+        "iata": "BVB",
+        "latitude": 2.84139,
+        "longitude": -60.6922
+    },
+    {
+        "latitude": -12.6944,
+        "iata": "BVH",
+        "longitude": -60.0983,
+        "name": "Brigadeiro Camarão Airport (BVH)"
+    },
+    {
+        "name": "Baltimore\/Washington International Thurgood Marshall Airport (BWI)",
+        "latitude": 39.1753,
+        "iata": "BWI",
+        "longitude": -76.6683
+    },
+    {
+        "name": "Brunei International Airport (BWN)",
+        "latitude": 4.9442,
+        "longitude": 114.928,
+        "iata": "BWN"
+    },
+    {
+        "name": "Philip S. W. Goldson International Airport (BZE)",
+        "latitude": 17.5391,
+        "longitude": -88.3082,
+        "iata": "BZE"
+    },
+    {
+        "name": "Gallatin Field (BZN)",
+        "latitude": 45.7775,
+        "longitude": -111.153,
+        "iata": "BZN"
+    },
+    {
+        "latitude": -4.2517,
+        "name": "Maya-Maya Airport (BZV)",
+        "iata": "BZV",
+        "longitude": 15.253
+    },
+    {
+        "latitude": -25.0003,
+        "longitude": -53.5008,
+        "iata": "CAC",
+        "name": "Cascavel Airport (CAC)"
+    },
+    {
+        "name": "Canada - Large Airports (CAD)",
+        "latitude": 44.2753,
+        "iata": "CAD",
+        "longitude": -85.4189
+    },
+    {
+        "latitude": 33.9388,
+        "name": "Columbia Metropolitan Airport (CAE)",
+        "longitude": -81.1195,
+        "iata": "CAE"
+    },
+    {
+        "latitude": 39.2515,
+        "longitude": 9.05428,
+        "iata": "CAG",
+        "name": "Cagliari Elmas Airport (CAG)"
+    },
+    {
+        "longitude": 31.4056,
+        "iata": "CAI",
+        "name": "Cairo International Airport (CAI)",
+        "latitude": 30.1219
+    },
+    {
+        "iata": "CAL",
+        "latitude": 55.4372,
+        "longitude": -5.68639,
+        "name": "California, United States (CAL)"
+    },
+    {
+        "latitude": 23.3924,
+        "iata": "CAN",
+        "name": "Guangzhou Baiyun International Airport (CAN)",
+        "longitude": 113.299
+    },
+    {
+        "longitude": -68.0179,
+        "iata": "CAR",
+        "latitude": 46.8715,
+        "name": "Caribbean - Large Airports (CAR)"
+    },
+    {
+        "iata": "CAU",
+        "name": "Caruaru Airport (CAU)",
+        "latitude": -8.28239,
+        "longitude": -36.0135
+    },
+    {
+        "iata": "CAY",
+        "name": "Cayenne-Rochambeau Airport (CAY)",
+        "latitude": 4.81981,
+        "longitude": -52.3604
+    },
+    {
+        "iata": "CBR",
+        "name": "Canberra International Airport (CBR)",
+        "longitude": 149.195,
+        "latitude": -35.3069
+    },
+    {
+        "latitude": 11.1368,
+        "iata": "CCJ",
+        "name": "Calicut International Airport (CCJ)",
+        "longitude": 75.9553
+    },
+    {
+        "name": "Simón Bolívar International Airport (CCS)",
+        "latitude": 10.6012,
+        "longitude": -66.9912,
+        "iata": "CCS"
+    },
+    {
+        "iata": "CCU",
+        "name": "Netaji Subhash Chandra Bose International Airport (CCU)",
+        "longitude": 88.4467,
+        "latitude": 22.6547
+    },
+    {
+        "iata": "CDG",
+        "name": "Paris Charles de Gaulle International Airport (CDG)",
+        "latitude": 49.0097,
+        "longitude": 2.54778
+    },
+    {
+        "latitude": 10.3075,
+        "longitude": 123.979,
+        "name": "Mactan Cebu International Airport (CEB)",
+        "iata": "CEB"
+    },
+    {
+        "latitude": -30.3206,
+        "name": "Coffs Harbour Airport (CFS)",
+        "iata": "CFS",
+        "longitude": 153.116
+    },
+    {
+        "latitude": 39.6019,
+        "longitude": 19.9117,
+        "iata": "CFU",
+        "name": "Ioannis Kapodistrias International Airport (CFU)"
+    },
+    {
+        "longitude": -56.1167,
+        "iata": "CGB",
+        "latitude": -15.6529,
+        "name": "Marechal Rondon Airport (CGB)"
+    },
+    {
+	    "latitude": -23.6233,
+	    "longitude": -46.6525,
+        "iata": "CGH",
+        "name": "Congonhas Airport (CGH)"
+    },
+    {
+        "iata": "CGK",
+        "longitude": 106.656,
+        "name": "Soekarno-Hatta International Airport (CGK)",
+        "latitude": -6.12556
+    },
+    {
+        "name": "Cologne Bonn Airport (CGN)",
+        "longitude": 7.14274,
+        "latitude": 50.8659,
+        "iata": "CGN"
+    },
+    {
+        "iata": "CGO",
+        "latitude": 34.5197,
+        "longitude": 113.841,
+        "name": "Zhengzhou Xinzheng International Airport (CGO)"
+    },
+    {
+        "longitude": 91.8133,
+        "iata": "CGP",
+        "latitude": 22.2496,
+        "name": "Shah Amanat International Airport (CGP)"
+    },
+    {
+        "iata": "CGQ",
+        "latitude": 43.9962,
+        "name": "Longjia Airport (CGQ)",
+        "longitude": 125.685
+    },
+    {
+        "longitude": -54.6725,
+        "latitude": -20.4687,
+        "iata": "CGR",
+        "name": "Campo Grande Airport (CGR)"
+    },
+    {
+        "latitude": 35.0353,
+        "iata": "CHA",
+        "name": "Lovell Field (CHA)",
+        "longitude": -85.2038
+    },
+    {
+        "name": "Christchurch International Airport (CHC)",
+        "iata": "CHC",
+        "longitude": 172.532,
+        "latitude": -43.4894
+    },
+    {
+        "latitude": 38.1386,
+        "iata": "CHO",
+        "name": "Charlottesville Albemarle Airport (CHO)",
+        "longitude": -78.4529
+    },
+    {
+        "latitude": 35.5317,
+        "iata": "CHQ",
+        "longitude": 24.1497,
+        "name": "Chania International Airport (CHQ)"
+    },
+    {
+        "longitude": -80.0405,
+        "latitude": 32.8986,
+        "iata": "CHS",
+        "name": "Charleston Air Force Base-International Airport (CHS)"
+    },
+    {
+        "name": "The Eastern Iowa Airport (CID)",
+        "latitude": 41.8847,
+        "longitude": -91.7108,
+        "iata": "CID"
+    },
+    {
+        "latitude": 46.2508,
+        "name": "Chippewa County International Airport (CIU)",
+        "iata": "CIU",
+        "longitude": -84.4724
+    },
+    {
+        "longitude": -63.1326,
+        "name": "Coari Airport (CIZ)",
+        "latitude": -4.13406,
+        "iata": "CIZ"
+    },
+    {
+        "latitude": 31.6361,
+        "longitude": -106.429,
+        "iata": "CJS",
+        "name": "Abraham González International Airport (CJS)"
+    },
+    {
+        "longitude": 126.493,
+        "latitude": 33.5113,
+        "iata": "CJU",
+        "name": "Jeju International Airport (CJU)"
+    },
+    {
+        "iata": "CKG",
+        "name": "Chongqing Jiangbei International Airport (CKG)",
+        "latitude": 29.7192,
+        "longitude": 106.642
+    },
+    {
+        "latitude": 41.4117,
+        "longitude": -81.8498,
+        "iata": "CLE",
+        "name": "Cleveland Hopkins International Airport (CLE)"
+    },
+    {
+        "latitude": 30.5886,
+        "iata": "CLL",
+        "longitude": -96.3638,
+        "name": "Easterwood Field (CLL)"
+    },
+    {
+        "longitude": -80.9431,
+        "iata": "CLT",
+        "latitude": 35.214,
+        "name": "Charlotte Douglas International Airport (CLT)"
+    },
+    {
+        "longitude": -48.6075,
+        "iata": "CLV",
+        "name": "Nelson Ribeiro Guimarães Airport (CLV)",
+        "latitude": -17.7253
+    },
+    {
+        "longitude": 8.79306,
+        "name": "Calvi-Sainte-Catherine Airport (CLY)",
+        "latitude": 42.5244,
+        "iata": "CLY"
+    },
+    {
+        "name": "Bandaranaike International Colombo Airport (CMB)",
+        "iata": "CMB",
+        "longitude": 79.8841,
+        "latitude": 7.18076
+    },
+    {
+        "iata": "CMG",
+        "latitude": -19.0119,
+        "longitude": -57.6714,
+        "name": "Corumbá International Airport (CMG)"
+    },
+    {
+        "iata": "CMH",
+        "latitude": 39.998,
+        "name": "John Glenn Columbus International Airport (CMH)",
+        "longitude": -82.8919
+    },
+    {
+        "latitude": 33.3675,
+        "name": "Mohammed V International Airport (CMN)",
+        "iata": "CMN",
+        "longitude": -7.58997
+    },
+    {
+        "name": "Ignacio Agramonte International Airport (CMW)",
+        "latitude": 21.4203,
+        "longitude": -77.8475,
+        "iata": "CMW"
+    },
+    {
+        "name": "Mainland China - Large Airports (CNA)",
+        "iata": "CNA",
+        "longitude": -110.098,
+        "latitude": 31.0662
+    },
+    {
+    	"latitude": -19.633664132,
+    	"longitude": -43.967996128,
+        "iata": "CNF",
+        "name": "Tancredo Neves International Airport (CNF)"
+    },
+    {
+        "iata": "CNJ",
+        "name": "Cloncurry Airport (CNJ)",
+        "longitude": 140.504,
+        "latitude": -20.6686
+    },
+    {
+        "longitude": 145.755,
+        "name": "Cairns International Airport (CNS)",
+        "iata": "CNS",
+        "latitude": -16.8858
+    },
+    {
+        "latitude": 18.7668,
+        "iata": "CNX",
+        "name": "Chiang Mai International Airport (CNX)",
+        "longitude": 98.9626
+    },
+    {
+        "name": "Cochin International Airport (COK)",
+        "longitude": 76.4019,
+        "iata": "COK",
+        "latitude": 10.152
+    },
+    {
+        "iata": "COO",
+        "latitude": 6.35723,
+        "name": "Cadjehoun Airport (COO)",
+        "longitude": 2.38435
+    },
+    {
+        "name": "Ingeniero Ambrosio Taravella Airport (COR)",
+        "latitude": -31.3236,
+        "longitude": -64.208,
+        "iata": "COR"
+    },
+    {
+        "iata": "COS",
+        "name": "City of Colorado Springs Municipal Airport (COS)",
+        "latitude": 38.8058,
+        "longitude": -104.701
+    },
+    {
+        "longitude": -92.2196,
+        "name": "Columbia Regional Airport (COU)",
+        "latitude": 38.8181,
+        "iata": "COU"
+    },
+    {
+        "iata": "CPH",
+        "name": "Copenhagen Kastrup Airport (CPH)",
+        "latitude": 55.6179,
+        "longitude": 12.656
+    },
+    {
+        "longitude": 18.6017,
+        "iata": "CPT",
+        "latitude": -33.9648,
+        "name": "Cape Town International Airport (CPT)"
+    },
+    {
+        "latitude": -7.26992,
+        "longitude": -35.8964,
+        "name": "Presidente João Suassuna Airport (CPV)",
+        "iata": "CPV"
+    },
+    {
+        "longitude": 120.56,
+        "name": "Clark International Airport (CRK)",
+        "iata": "CRK",
+        "latitude": 15.186
+    },
+    {
+        "longitude": 113.22,
+        "latitude": 28.1892,
+        "iata": "CSX",
+        "name": "Changsha Huanghua International Airport (CSX)"
+    },
+    {
+        "name": "Catania-Fontanarossa Airport (CTA)",
+        "longitude": 15.0664,
+        "iata": "CTA",
+        "latitude": 37.4668
+    },
+    {
+        "longitude": -75.513,
+        "iata": "CTG",
+        "latitude": 10.4424,
+        "name": "Rafael Nuñez International Airport (CTG)"
+    },
+    {
+        "latitude": 42.7861111111,
+        "longitude": 141.6808333333,
+        "iata": "CTS",
+        "name": "New Chitose Airport (CTS)"
+    },
+    {
+        "name": "Chengdu Shuangliu International Airport (CTU)",
+        "iata": "CTU",
+        "latitude": 30.5785,
+        "longitude": 103.947
+    },
+    {
+        "iata": "CUN",
+        "latitude": 21.0365,
+        "longitude": -86.8771,
+        "name": "Cancún International Airport (CUN)"
+    },
+    {
+        "iata": "CUR",
+        "latitude": 12.1889,
+        "longitude": -68.9598,
+        "name": "Hato International Airport (CUR)"
+    },
+    {
+        "latitude": -13.5357,
+        "name": "Alejandro Velasco Astete International Airport (CUZ)",
+        "longitude": -71.9388,
+        "iata": "CUZ"
+    },
+    {
+        "latitude": 39.0488,
+        "longitude": -84.6678,
+        "name": "Cincinnati Northern Kentucky International Airport (CVG)",
+        "iata": "CVG"
+    },
+    {
+        "iata": "CWB",
+        "longitude": -49.1758,
+        "latitude": -25.5285,
+        "name": "Afonso Pena Airport (CWB)"
+    },
+    {
+        "latitude": 1.98616,
+        "iata": "CXI",
+        "longitude": -157.35,
+        "name": "Cassidy International Airport (CXI)"
+    },
+    {
+        "iata": "CXJ",
+        "name": "Hugo Cantergiani Regional Airport (CXJ)",
+        "latitude": -29.1971,
+        "longitude": -51.1875
+    },
+    {
+        "name": "Cam Ranh Airport (CXR)",
+        "longitude": 109.219,
+        "latitude": 11.9982,
+        "iata": "CXR"
+    },
+    {
+        "latitude": 41.1557,
+        "iata": "CYS",
+        "name": "Cheyenne Regional Jerry Olson Field (CYS)",
+        "longitude": -104.812
+    },
+    {
+        "iata": "CZM",
+        "name": "Cozumel International Airport (CZM)",
+        "latitude": 20.5224,
+        "longitude": -86.9256
+    },
+    {
+        "longitude": -81.0581,
+        "latitude": 29.1799,
+        "iata": "DAB",
+        "name": "Daytona Beach International Airport (DAB)"
+    },
+    {
+        "latitude": 23.8433,
+        "iata": "DAC",
+        "longitude": 90.3978,
+        "name": "Dhaka \/ Hazrat Shahjalal International Airport (DAC)"
+    },
+    {
+        "name": "Da Nang International Airport (DAD)",
+        "latitude": 16.0439,
+        "iata": "DAD",
+        "longitude": 108.199
+    },
+    {
+        "latitude": 32.8471,
+        "longitude": -96.8518,
+        "iata": "DAL",
+        "name": "Dallas Love Field (DAL)"
+    },
+    {
+        "longitude": 39.2026,
+        "name": "Julius Nyerere International Airport (DAR)",
+        "iata": "DAR",
+        "latitude": -6.87811
+    },
+    {
+        "latitude": 39.9024,
+        "iata": "DAY",
+        "longitude": -84.2194,
+        "name": "James M Cox Dayton International Airport (DAY)"
+    },
+    {
+        "name": "Dubrovnik Airport (DBV)",
+        "iata": "DBV",
+        "latitude": 42.5614,
+        "longitude": 18.2682
+    },
+    {
+        "iata": "DCA",
+        "name": "Ronald Reagan Washington National Airport (DCA)",
+        "latitude": 38.8522,
+        "longitude": -77.0378
+    },
+    {
+        "name": "Dodge City Regional Airport (DDC)",
+        "latitude": 37.7634,
+        "longitude": -99.9656,
+        "iata": "DDC"
+    },
+    {
+        "iata": "DEC",
+        "name": "Decatur Airport (DEC)",
+        "latitude": 39.8346,
+        "longitude": -88.8657
+    },
+    {
+        "iata": "DEL",
+        "name": "Indira Gandhi International Airport (DEL)",
+        "latitude": 28.5665,
+        "longitude": 77.1031
+    },
+    {
+        "longitude": -104.673,
+        "latitude": 39.8617,
+        "iata": "DEN",
+        "name": "Denver International Airport (DEN)"
+    },
+    {
+        "latitude": 32.8968,
+        "longitude": -97.038,
+        "iata": "DFW",
+        "name": "Dallas Fort Worth International Airport (DFW)"
+    },
+    {
+        "iata": "DGO",
+        "latitude": 24.1242,
+        "longitude": -104.528,
+        "name": "General Guadalupe Victoria International Airport (DGO)"
+    },
+    {
+        "iata": "DIK",
+        "latitude": 46.7974,
+        "name": "Dickinson Theodore Roosevelt Regional Airport (DIK)",
+        "longitude": -102.802
+    },
+    {
+        "name": "Presidente Nicolau Lobato International Airport (DIL)",
+        "iata": "DIL",
+        "latitude": -8.5464,
+        "longitude": 125.526
+    },
+    {
+        "longitude": 103.644,
+        "latitude": -1.63802,
+        "name": "Sultan Thaha Airport (DJB)",
+        "iata": "DJB"
+    },
+    {
+        "name": "Sentani Airport (DJJ)",
+        "longitude": 140.516,
+        "iata": "DJJ",
+        "latitude": -2.57695
+    },
+    {
+        "latitude": 4.00608,
+        "iata": "DLA",
+        "name": "Douala International Airport (DLA)",
+        "longitude": 9.71948
+    },
+    {
+        "latitude": 38.9657,
+        "iata": "DLC",
+        "longitude": 121.539,
+        "name": "Zhoushuizi Airport (DLC)"
+    },
+    {
+        "latitude": 46.8421,
+        "iata": "DLH",
+        "longitude": -92.1936,
+        "name": "Duluth International Airport (DLH)"
+    },
+    {
+        "latitude": 34.4491,
+        "iata": "DLL",
+        "name": "Delta Air Lines - Major Hubs (DLL)",
+        "longitude": -79.3686
+    },
+    {
+        "latitude": 25.6494,
+        "longitude": 100.319,
+        "iata": "DLU",
+        "name": "Dali Airport (DLU)"
+    },
+    {
+    	"latitude": 55.4086111111,
+    	"longitude": 37.9061111111,
+        "iata": "DME",
+        "name": "Domodedovo International Airport (DME)"
+    },
+    {
+        "iata": "DMM",
+        "name": "King Fahd International Airport (DMM)",
+        "latitude": 26.4712,
+        "longitude": 49.7979
+    },
+    {
+        "longitude": 51.6081,
+        "iata": "DOH",
+        "name": "Doha International Airport (DOH)",
+        "latitude": 25.2731
+    },
+    {
+        "name": "Melville Hall Airport (DOM)",
+        "iata": "DOM",
+        "latitude": 15.547,
+        "longitude": -61.3
+    },
+    {
+        "name": "Ngurah Rai (Bali) International Airport (DPS)",
+        "iata": "DPS",
+        "longitude": 115.167,
+        "latitude": -8.74817
+    },
+    {
+        "latitude": 37.1515,
+        "iata": "DRO",
+        "longitude": -107.754,
+        "name": "Durango La Plata County Airport (DRO)"
+    },
+    {
+        "name": "Darwin International Airport (DRW)",
+        "latitude": -12.4147,
+        "longitude": 130.877,
+        "iata": "DRW"
+    },
+    {
+        "name": "Des Moines International Airport (DSM)",
+        "iata": "DSM",
+        "latitude": 41.534,
+        "longitude": -93.6631
+    },
+    {
+        "iata": "DSS",
+        "latitude": 14.67,
+        "longitude": -17.0733,
+        "name": "Blaise Diagne International Airport (DSS)"
+    },
+    {
+        "name": "Detroit Metropolitan Wayne County Airport (DTW)",
+        "longitude": -83.3533,
+        "iata": "DTW",
+        "latitude": 42.2125
+    },
+    {
+        "name": "Dublin Airport (DUB)",
+        "iata": "DUB",
+        "longitude": -6.27007,
+        "latitude": 53.4213
+    },
+    {
+        "latitude": -29.6144,
+        "longitude": 31.1197,
+        "name": "King Shaka International Airport (DUR)",
+        "iata": "DUR"
+    },
+    {
+        "name": "Düsseldorf International Airport (DUS)",
+        "latitude": 51.2895,
+        "iata": "DUS",
+        "longitude": 6.76678
+    },
+    {
+        "latitude": 48.1142,
+        "longitude": -98.9088,
+        "iata": "DVL",
+        "name": "Devils Lake Regional Airport (DVL)"
+    },
+    {
+        "iata": "DXB",
+        "name": "Dubai International Airport (DXB)",
+        "latitude": 25.2528,
+        "longitude": 55.3644
+    },
+    {
+        "longitude": -1.79061,
+        "iata": "EAS",
+        "name": "San Sebastian Airport (EAS)",
+        "latitude": 43.3565
+    },
+    {
+        "longitude": 32.4435,
+        "name": "Entebbe International Airport (EBB)",
+        "iata": "EBB",
+        "latitude": 0.042386
+    },
+    {
+        "iata": "EBL",
+        "name": "Erbil International Airport (EBL)",
+        "latitude": 36.2376,
+        "longitude": 43.9632
+    },
+    {
+        "iata": "ECP",
+        "longitude": -85.7954,
+        "latitude": 30.3571,
+        "name": "Northwest Florida Beaches International Airport (ECP)"
+    },
+    {
+        "longitude": -3.3725,
+        "name": "Edinburgh Airport (EDI)",
+        "iata": "EDI",
+        "latitude": 55.95
+    },
+    {
+        "latitude": 0.404458,
+        "longitude": 35.2389,
+        "name": "Eldoret International Airport (EDL)",
+        "iata": "EDL"
+    },
+    {
+        "longitude": 27.0138,
+        "name": "Balıkesir Körfez Airport (EDO)",
+        "iata": "EDO",
+        "latitude": 39.5546
+    },
+    {
+        "name": "Bergerac-Roumanière Airport (EGC)",
+        "latitude": 44.8253,
+        "iata": "EGC",
+        "longitude": 0.518611
+    },
+    {
+        "longitude": -106.918,
+        "name": "Eagle County Regional Airport (EGE)",
+        "iata": "EGE",
+        "latitude": 39.6426
+    },
+    {
+        "longitude": -64.543,
+        "iata": "EIS",
+        "name": "Terrance B. Lettsome International Airport (EIS)",
+        "latitude": 18.4448
+    },
+    {
+        "latitude": 25.4749,
+        "iata": "ELH",
+        "longitude": -76.6835,
+        "name": "North Eleuthera Airport (ELH)"
+    },
+    {
+        "name": "El Paso International Airport (ELP)",
+        "iata": "ELP",
+        "longitude": -106.378,
+        "latitude": 31.8072
+    },
+    {
+        "longitude": 148.179,
+        "latitude": -23.5675,
+        "name": "Emerald Airport (EMD)",
+        "iata": "EMD"
+    },
+    {
+        "name": "Eirunepé Airport (ERN)",
+        "iata": "ERN",
+        "latitude": -6.63953,
+        "longitude": -69.8798
+    },
+    {
+        "name": "Esenboğa International Airport (ESB)",
+        "iata": "ESB",
+        "longitude": 32.995,
+        "latitude": 40.1281
+    },
+    {
+        "longitude": -94.7464,
+        "iata": "EST",
+        "latitude": 43.4074,
+        "name": "East Coast, United States (EST)"
+    },
+    {
+        "name": "Mahlon Sweet Field (EUG)",
+        "longitude": -123.212,
+        "latitude": 44.1246,
+        "iata": "EUG"
+    },
+    {
+        "iata": "EVN",
+        "latitude": 40.1473,
+        "name": "Zvartnots International Airport (EVN)",
+        "longitude": 44.3959
+    },
+    {
+        "longitude": -87.5324,
+        "iata": "EVV",
+        "name": "Evansville Regional Airport (EVV)",
+        "latitude": 38.037
+    },
+    {
+        "name": "Newark Liberty International Airport (EWR)",
+        "longitude": -74.1686,
+        "iata": "EWR",
+        "latitude": 40.6925
+    },
+    {
+        "iata": "EYW",
+        "name": "Key West International Airport (EYW)",
+        "latitude": 24.5561,
+        "longitude": -81.7596
+    },
+    {
+        "latitude": -34.8222,
+        "longitude": -58.5358,
+        "name": "Buenos Aires Ministro Pistarini International Airport (EZE)",
+        "iata": "EZE"
+    },
+    {
+        "name": "Vagar Airport (FAE)",
+        "iata": "FAE",
+        "longitude": -7.27722,
+        "latitude": 62.0636
+    },
+    {
+        "longitude": -147.856,
+        "name": "Fairbanks International Airport (FAI)",
+        "iata": "FAI",
+        "latitude": 64.8151
+    },
+    {
+        "longitude": -7.96591,
+        "latitude": 37.0144,
+        "iata": "FAO",
+        "name": "Faro Airport (FAO)"
+    },
+    {
+        "name": "Hector International Airport (FAR)",
+        "longitude": -96.8158,
+        "iata": "FAR",
+        "latitude": 46.9207
+    },
+    {
+        "name": "Fresno Yosemite International Airport (FAT)",
+        "latitude": 36.7762,
+        "iata": "FAT",
+        "longitude": -119.718
+    },
+    {
+        "longitude": -114.256,
+        "iata": "FCA",
+        "name": "Glacier Park International Airport (FCA)",
+        "latitude": 48.3105
+    },
+    {
+        "iata": "FCO",
+        "name": "Rome Leonardo da Vinci-Fiumicino Airport (FCO)",
+        "longitude": 12.2389,
+        "latitude": 41.8003
+    },
+    {
+        "latitude": 14.591,
+        "longitude": -61.0032,
+        "name": "Martinique Aimé Césaire International Airport (FDF)",
+        "iata": "FDF"
+    },
+    {
+        "name": "Fernando de Noronha Airport (FEN)",
+        "latitude": -3.85493,
+        "longitude": -32.4233,
+        "iata": "FEN"
+    },
+    {
+        "longitude": -80.1527,
+        "latitude": 26.0726,
+        "name": "Fort Lauderdale Hollywood International Airport (FLL)",
+        "iata": "FLL"
+    },
+    {
+        "iata": "FLN",
+        "latitude": -27.6703,
+        "name": "Hercílio Luz International Airport (FLN)",
+        "longitude": -48.5525
+    },
+    {
+        "name": "Peretola Airport (FLR)",
+        "iata": "FLR",
+        "latitude": 43.81,
+        "longitude": 11.2051
+    },
+    {
+        "longitude": -16.7745,
+        "name": "Madeira Airport (FNC)",
+        "latitude": 32.6979,
+        "iata": "FNC"
+    },
+    {
+        "name": "Fuzhou Changle International Airport (FOC)",
+        "latitude": 25.9351,
+        "longitude": 119.663,
+        "iata": "FOC"
+    },
+    {
+        "longitude": -38.5326,
+        "name": "Pinto Martins International Airport (FOR)",
+        "iata": "FOR",
+        "latitude": -3.77628
+    },
+    {
+        "iata": "FPO",
+        "latitude": 26.5587,
+        "name": "Grand Bahama International Airport (FPO)",
+        "longitude": -78.6956
+    },
+    {
+        "name": "Frankfurt am Main International Airport (FRA)",
+        "longitude": 8.57056,
+        "iata": "FRA",
+        "latitude": 50.0333
+    },
+    {
+        "name": "Manas International Airport (FRU)",
+        "latitude": 43.0613,
+        "iata": "FRU",
+        "longitude": 74.4776
+    },
+    {
+        "latitude": 41.5006,
+        "longitude": 9.09778,
+        "iata": "FSC",
+        "name": "Figari Sud-Corse Airport (FSC)"
+    },
+    {
+        "iata": "FSD",
+        "name": "Joe Foss Field Airport (FSD)",
+        "latitude": 43.582,
+        "longitude": -96.7419
+    },
+    {
+        "iata": "FUE",
+        "name": "Fuerteventura Airport (FUE)",
+        "latitude": 28.4527,
+        "longitude": -13.8638
+    },
+    {
+        "latitude": 33.5859,
+        "longitude": 130.451,
+        "iata": "FUK",
+        "name": "Fukuoka Airport (FUK)"
+    },
+    {
+        "name": "Funafuti International Airport (FUN)",
+        "iata": "FUN",
+        "latitude": -8.525,
+        "longitude": 179.196
+    },
+    {
+        "latitude": 19.2928,
+        "longitude": -81.3577,
+        "iata": "GCM",
+        "name": "Owen Roberts International Airport (GCM)"
+    },
+    {
+        "iata": "GDL",
+        "latitude": 20.5218,
+        "name": "Don Miguel Hidalgo Y Costilla International Airport (GDL)",
+        "longitude": -103.311
+    },
+    {
+        "latitude": 54.3776,
+        "iata": "GDN",
+        "name": "Gdańsk Lech Wałęsa Airport (GDN)",
+        "longitude": 18.4662
+    },
+    {
+        "name": "Spokane International Airport (GEG)",
+        "latitude": 47.6199,
+        "iata": "GEG",
+        "longitude": -117.534
+    },
+    {
+        "latitude": 6.49855,
+        "iata": "GEO",
+        "longitude": -58.2541,
+        "name": "Cheddi Jagan International Airport (GEO)"
+    },
+    {
+        "iata": "GER",
+        "name": "Germany - Large Airports (GER)",
+        "longitude": -82.7838,
+        "latitude": 21.8347
+    },
+    {
+        "iata": "GGT",
+        "latitude": 23.5626,
+        "name": "Exuma International Airport (GGT)",
+        "longitude": -75.878
+    },
+    {
+        "latitude": 25.2847,
+        "iata": "GHB",
+        "longitude": -76.331,
+        "name": "Governor's Harbour Airport (GHB)"
+    },
+    {
+    	"latitude": -22.8088888889,
+    	"longitude": -43.2436111111,
+        "iata": "GIG",
+        "name": "Rio Galeão – Tom Jobim International Airport (GIG)"
+    },
+    {
+        "iata": "GJT",
+        "longitude": -108.527,
+        "latitude": 39.1224,
+        "name": "Grand Junction Regional Airport (GJT)"
+    },
+    {
+        "longitude": -4.43306,
+        "latitude": 55.8719,
+        "name": "Glasgow International Airport (GLA)",
+        "iata": "GLA"
+    },
+    {
+        "latitude": 37.55806,
+        "longitude": 126.79056,
+        "iata": "GMP",
+        "name": "Gimpo International Airport (GMP)"
+    },
+    {
+        "latitude": 12.0042,
+        "longitude": -61.7862,
+        "iata": "GND",
+        "name": "Point Salines International Airport (GND)"
+    },
+    {
+        "latitude": 15.3808,
+        "longitude": 73.8314,
+        "iata": "GOI",
+        "name": "Dabolim Airport (GOI)"
+    },
+    {
+        "iata": "GOT",
+        "name": "Gothenburg-Landvetter Airport (GOT)",
+        "longitude": 12.2798,
+        "latitude": 57.6628
+    },
+    {
+        "latitude": 15.7318,
+        "longitude": 73.8681,
+        "iata": "GOX",
+        "name": "Goa Manohar International Airport (GOX)"
+    },
+    {
+        "iata": "GPS",
+        "name": "Seymour Airport (GPS)",
+        "longitude": -90.2659,
+        "latitude": -0.453758
+    },
+    {
+        "longitude": -89.0701,
+        "latitude": 30.4073,
+        "name": "Gulfport Biloxi International Airport (GPT)",
+        "iata": "GPT"
+    },
+    {
+        "latitude": 42.8808,
+        "name": "Gerald R. Ford International Airport (GRR)",
+        "longitude": -85.5228,
+        "iata": "GRR"
+    },
+    {
+        "latitude": -23.42583163,
+        "longitude": -46.46833146,
+        "name": "Guarulhos - Governador André Franco Montoro International Airport (GRU)",
+        "iata": "GRU"
+    },
+    {
+        "longitude": -79.9373,
+        "latitude": 36.0978,
+        "iata": "GSO",
+        "name": "Piedmont Triad International Airport (GSO)"
+    },
+    {
+        "latitude": 34.8957,
+        "name": "Greenville Spartanburg International Airport (GSP)",
+        "iata": "GSP",
+        "longitude": -82.2189
+    },
+    {
+        "iata": "GTO",
+        "name": "Jalaluddin Airport (GTO)",
+        "latitude": 0.637119,
+        "longitude": 122.85
+    },
+    {
+        "latitude": 14.5817,
+        "name": "La Aurora Airport (GUA)",
+        "iata": "GUA",
+        "longitude": -90.5267
+    },
+    {
+        "iata": "GUC",
+        "name": "Gunnison Crested Butte Regional Airport (GUC)",
+        "longitude": -106.933,
+        "latitude": 38.5339
+    },
+    {
+        "name": "Antonio B. Won Pat International Airport (GUM)",
+        "iata": "GUM",
+        "longitude": 144.796,
+        "latitude": 13.4834
+    },
+    {
+        "name": "Geneva Cointrin International Airport (GVA)",
+        "latitude": 46.2381,
+        "iata": "GVA",
+        "longitude": 6.10895
+    },
+    {
+        "latitude": 40.4675,
+        "longitude": 50.0467,
+        "iata": "GYD",
+        "name": "Heydar Aliyev International Airport (GYD)"
+    },
+    {
+        "longitude": -79.8836,
+        "iata": "GYE",
+        "latitude": -2.15742,
+        "name": "José Joaquín de Olmedo International Airport (GYE)"
+    },
+    {
+        "latitude": -16.632,
+        "iata": "GYN",
+        "name": "Santa Genoveva Airport (GYN)",
+        "longitude": -49.2207
+    },
+    {
+        "latitude": 36.2992,
+        "iata": "GZP",
+        "name": "Gazipaşa Airport (GZP)",
+        "longitude": 32.3006
+    },
+    {
+        "iata": "HAJ",
+        "longitude": 9.68508,
+        "latitude": 52.4611,
+        "name": "Hannover Airport (HAJ)"
+    },
+    {
+        "name": "Haikou Meilan International Airport (HAK)",
+        "longitude": 110.459,
+        "latitude": 19.9349,
+        "iata": "HAK"
+    },
+    {
+        "longitude": 9.98823,
+        "iata": "HAM",
+        "latitude": 53.6304,
+        "name": "Hamburg Airport (HAM)"
+    },
+    {
+        "latitude": 21.2212,
+        "iata": "HAN",
+        "name": "Noi Bai International Airport (HAN)",
+        "longitude": 105.807
+    },
+    {
+        "latitude": 22.9892,
+        "iata": "HAV",
+        "longitude": -82.4091,
+        "name": "José Martí International Airport (HAV)"
+    },
+    {
+        "longitude": -4.96111,
+        "name": "Hawaii - Large Airports (HAW)",
+        "latitude": 51.8331,
+        "iata": "HAW"
+    },
+    {
+        "iata": "HBA",
+        "name": "Hobart International Airport (HBA)",
+        "latitude": -42.8361,
+        "longitude": 147.51
+    },
+    {
+        "longitude": 29.6964,
+        "name": "Borg El Arab International Airport (HBE)",
+        "latitude": 30.9177,
+        "iata": "HBE"
+    },
+    {
+        "latitude": 40.4812,
+        "longitude": -107.218,
+        "name": "Yampa Valley Airport (HDN)",
+        "iata": "HDN"
+    },
+    {
+        "iata": "HEL",
+        "name": "Helsinki Vantaa Airport (HEL)",
+        "longitude": 24.9633,
+        "latitude": 60.3172
+    },
+    {
+        "latitude": 35.3397,
+        "iata": "HER",
+        "name": "Heraklion International Nikos Kazantzakis Airport (HER)",
+        "longitude": 25.1803
+    },
+    {
+        "iata": "HET",
+        "latitude": 40.8514,
+        "name": "Baita International Airport (HET)",
+        "longitude": 111.824
+    },
+    {
+        "latitude": 30.2295,
+        "iata": "HGH",
+        "longitude": 120.434,
+        "name": "Hangzhou Xiaoshan International Airport (HGH)"
+    },
+    {
+        "iata": "HHH",
+        "longitude": -80.6975,
+        "latitude": 32.2244,
+        "name": "Hilton Head Airport (HHH)"
+    },
+    {
+        "latitude": -10.5864,
+        "name": "Horn Island Airport (HID)",
+        "longitude": 142.29,
+        "iata": "HID"
+    },
+    {
+        "iata": "HIJ",
+        "name": "Hiroshima Airport (HIJ)",
+        "latitude": 34.4361,
+        "longitude": 132.919
+    },
+    {
+        "longitude": 160.055,
+        "latitude": -9.428,
+        "name": "Honiara International Airport (HIR)",
+        "iata": "HIR"
+    },
+    {
+        "name": "Hakodate Airport (HKD)",
+        "iata": "HKD",
+        "longitude": 140.822,
+        "latitude": 41.77
+    },
+    {
+        "name": "Hong Kong International Airport (HKG)",
+        "latitude": 22.3089,
+        "iata": "HKG",
+        "longitude": 113.915
+    },
+    {
+        "longitude": 98.3169,
+        "latitude": 8.1132,
+        "name": "Phuket International Airport (HKT)",
+        "iata": "HKT"
+    },
+    {
+        "longitude": -111.983,
+        "latitude": 46.6068,
+        "name": "Helena Regional Airport (HLN)",
+        "iata": "HLN"
+    },
+    {
+        "name": "General Ignacio P. Garcia International Airport (HMO)",
+        "longitude": -111.048,
+        "iata": "HMO",
+        "latitude": 29.0959
+    },
+    {
+        "name": "Tokyo Haneda International Airport (HND)",
+        "latitude": 35.5533,
+        "iata": "HND",
+        "longitude": 139.781
+    },
+    {
+        "latitude": 21.3206,
+        "iata": "HNL",
+        "name": "Honolulu International Airport (HNL)",
+        "longitude": -157.924
+    },
+    {
+        "longitude": -76.3151,
+        "name": "Frank Pais International Airport (HOG)",
+        "latitude": 20.7856,
+        "iata": "HOG"
+    },
+    {
+        "name": "William P Hobby Airport (HOU)",
+        "iata": "HOU",
+        "longitude": -95.2789,
+        "latitude": 29.6454
+    },
+    {
+        "longitude": -73.7076,
+        "latitude": 41.067,
+        "iata": "HPN",
+        "name": "Westchester County Airport (HPN)"
+    },
+    {
+        "longitude": 126.25,
+        "latitude": 45.6234,
+        "iata": "HRB",
+        "name": "Taiping Airport (HRB)"
+    },
+    {
+        "name": "Hurghada International Airport (HRG)",
+        "longitude": 33.7994,
+        "latitude": 27.1783,
+        "iata": "HRG"
+    },
+    {
+        "latitude": 26.2285,
+        "iata": "HRL",
+        "longitude": -97.6544,
+        "name": "Valley International Airport (HRL)"
+    },
+    {
+        "name": "Huntsville International Carl T Jones Field (HSV)",
+        "iata": "HSV",
+        "latitude": 34.6372,
+        "longitude": -86.7751
+    },
+    {
+        "iata": "HTI",
+        "latitude": -20.3581,
+        "name": "Hamilton Island Airport (HTI)",
+        "longitude": 148.952
+    },
+    {
+        "longitude": 107.703,
+        "latitude": 16.4015,
+        "iata": "HUI",
+        "name": "Phu Bai Airport (HUI)"
+    },
+    {
+        "longitude": -70.2804,
+        "latitude": 41.6693,
+        "name": "Barnstable Municipal Boardman Polando Field (HYA)",
+        "iata": "HYA"
+    },
+    {
+        "name": "Rajiv Gandhi International Airport (HYD)",
+        "latitude": 17.2313,
+        "iata": "HYD",
+        "longitude": 78.4299
+    },
+    {
+        "iata": "IAD",
+        "latitude": 38.9445,
+        "longitude": -77.4558,
+        "name": "Washington Dulles International Airport (IAD)"
+    },
+    {
+        "iata": "IAH",
+        "name": "George Bush Intercontinental Houston Airport (IAH)",
+        "longitude": -95.3414,
+        "latitude": 29.9844
+    },
+    {
+        "iata": "IBZ",
+        "latitude": 38.8729,
+        "name": "Ibiza Airport (IBZ)",
+        "longitude": 1.37312
+    },
+    {
+        "latitude": 37.4633,
+        "iata": "ICN",
+        "name": "Incheon International Airport (ICN)",
+        "longitude": 126.44
+    },
+    {
+        "iata": "ICT",
+        "name": "Wichita Mid Continent Airport (ICT)",
+        "longitude": -97.4331,
+        "latitude": 37.6499
+    },
+    {
+        "longitude": -112.071,
+        "latitude": 43.5136,
+        "iata": "IDA",
+        "name": "India - Large Airports (IDA)"
+    },
+    {
+        "latitude": -25.7373,
+        "longitude": -54.4734,
+        "name": "Cataratas Del Iguazú International Airport (IGR)",
+        "iata": "IGR"
+    },
+    {
+        "name": "Cataratas International Airport (IGU)",
+        "latitude": -25.6003,
+        "longitude": -54.485,
+        "iata": "IGU"
+    },
+    {
+        "iata": "IKA",
+        "longitude": 51.1522,
+        "name": "Imam Khomeini International Airport (IKA)",
+        "latitude": 35.4161
+    },
+    {
+        "name": "Wilmington International Airport (ILM)",
+        "iata": "ILM",
+        "longitude": -77.9026,
+        "latitude": 34.2706
+    },
+    {
+        "longitude": 106.393,
+        "iata": "INC",
+        "name": "Yinchuan Airport (INC)",
+        "latitude": 38.3228
+    },
+    {
+        "latitude": 39.7173,
+        "longitude": -86.2944,
+        "name": "Indianapolis International Airport (IND)",
+        "iata": "IND"
+    },
+    {
+        "name": "Innsbruck Airport (INN)",
+        "iata": "INN",
+        "latitude": 47.2602,
+        "longitude": 11.344
+    },
+    {
+        "longitude": -4.0475,
+        "iata": "INV",
+        "latitude": 57.5425,
+        "name": "Inverness Airport (INV)"
+    },
+    {
+        "latitude": 54.0833,
+        "iata": "IOM",
+        "name": "Isle of Man Airport (IOM)",
+        "longitude": -4.62333
+    },
+    {
+        "latitude": -14.816,
+        "name": "Bahia - Jorge Amado Airport (IOS)",
+        "iata": "IOS",
+        "longitude": -39.0332
+    },
+    {
+        "name": "Mataveri Airport (IPC)",
+        "longitude": -109.422,
+        "iata": "IPC",
+        "latitude": -27.1648
+    },
+    {
+        "iata": "ISA",
+        "name": "Mount Isa Airport (ISA)",
+        "longitude": 139.489,
+        "latitude": -20.6639
+    },
+    {
+        "longitude": 72.8516,
+        "latitude": 33.5607,
+        "iata": "ISB",
+        "name": "Benazir Bhutto International Airport (ISB)"
+    },
+    {
+        "longitude": 124.245,
+        "name": "Ishigaki Airport (ISG)",
+        "latitude": 24.3964,
+        "iata": "ISG"
+    },
+    {
+        "iata": "ISP",
+        "name": "Long Island Mac Arthur Airport (ISP)",
+        "latitude": 40.7952,
+        "longitude": -73.1002
+    },
+    {
+        "name": "Istanbul Airport (IST)",
+        "iata": "IST",
+        "latitude": 41.2753,
+        "longitude": 28.7519
+    },
+    {
+        "longitude": -76.4584,
+        "latitude": 42.491,
+        "iata": "ITH",
+        "name": "Ithaca Tompkins Regional Airport (ITH)"
+    },
+    {
+    	"latitude": 34.783996864,
+    	"longitude": 135.436831586,
+        "iata": "ITM",
+        "name": "Osaka International Airport (ITM)"
+    },
+    {
+        "name": "Hilo International Airport (ITO)",
+        "iata": "ITO",
+        "latitude": 19.7214,
+        "longitude": -155.048
+    },
+    {
+        "name": "Niue International Airport (IUE)",
+        "latitude": -19.079,
+        "iata": "IUE",
+        "longitude": -169.926
+    },
+    {
+        "longitude": 76.7885,
+        "iata": "IXC",
+        "name": "Chandigarh Airport (IXC)",
+        "latitude": 30.6735
+    },
+    {
+        "latitude": 32.6891,
+        "longitude": 74.8374,
+        "iata": "IXJ",
+        "name": "Jammu Airport (IXJ)"
+    },
+    {
+        "iata": "IXL",
+        "name": "Leh Kushok Bakula Rimpochee Airport (IXL)",
+        "latitude": 34.1359,
+        "longitude": 77.5465
+    },
+    {
+        "name": "Vir Savarkar International Airport (IXZ)",
+        "latitude": 11.6412,
+        "longitude": 92.7297,
+        "iata": "IXZ"
+    },
+    {
+        "longitude": -43.1731,
+        "name": "Zona da Mata Regional Airport (IZA)",
+        "iata": "IZA",
+        "latitude": -21.5131
+    },
+    {
+        "latitude": 43.6073,
+        "longitude": -110.738,
+        "name": "Jackson Hole Airport (JAC)",
+        "iata": "JAC"
+    },
+    {
+        "longitude": 75.8122,
+        "name": "Jaipur International Airport (JAI)",
+        "iata": "JAI",
+        "latitude": 26.8242
+    },
+    {
+        "name": "Jacksonville International Airport (JAX)",
+        "longitude": -81.6879,
+        "iata": "JAX",
+        "latitude": 30.4941
+    },
+    {
+        "latitude": -7.21896,
+        "name": "Orlando Bezerra de Menezes Airport (JDO)",
+        "longitude": -39.2701,
+        "iata": "JDO"
+    },
+    {
+        "latitude": 21.6796,
+        "longitude": 39.1565,
+        "iata": "JED",
+        "name": "King Abdulaziz International Airport (JED)"
+    },
+    {
+        "latitude": 49.2081,
+        "longitude": -2.19528,
+        "iata": "JER",
+        "name": "Jersey Airport (JER)"
+    },
+    {
+        "iata": "JFK",
+        "name": "New York John F. Kennedy International Airport (JFK)",
+        "latitude": 40.6397,
+        "longitude": -73.7789
+    },
+    {
+        "name": "Quanzhou Jinjiang International Airport (JJN)",
+        "iata": "JJN",
+        "latitude": 24.7964,
+        "longitude": 118.59
+    },
+    {
+        "longitude": -94.4983,
+        "latitude": 37.1518,
+        "name": "Joplin Regional Airport (JLN)",
+        "iata": "JLN"
+    },
+    {
+        "latitude": 37.4351,
+        "iata": "JMK",
+        "name": "Mykonos International Airport (JMK)",
+        "longitude": 25.3481
+    },
+    {
+        "iata": "JMS",
+        "name": "Jamestown Regional Airport (JMS)",
+        "latitude": 46.9297,
+        "longitude": -98.6782
+    },
+    {
+        "latitude": -26.1392,
+        "iata": "JNB",
+        "name": "OR Tambo International Airport (JNB)",
+        "longitude": 28.246
+    },
+    {
+        "name": "Juneau International Airport (JNU)",
+        "latitude": 58.355,
+        "longitude": -134.576,
+        "iata": "JNU"
+    },
+    {
+        "longitude": -48.7974,
+        "name": "Lauro Carneiro de Loyola Airport (JOI)",
+        "latitude": -26.2245,
+        "iata": "JOI"
+    },
+    {
+        "name": "Presidente Castro Pinto International Airport (JPA)",
+        "longitude": -34.9486,
+        "iata": "JPA",
+        "latitude": -7.14583
+    },
+    {
+        "longitude": -61.8465,
+        "iata": "JPR",
+        "name": "Ji-Paraná Airport (JPR)",
+        "latitude": -10.8708
+    },
+    {
+        "iata": "JRO",
+        "latitude": -3.42941,
+        "name": "Kilimanjaro International Airport (JRO)",
+        "longitude": 37.0745
+    },
+    {
+        "iata": "JTR",
+        "name": "Santorini Airport (JTR)",
+        "latitude": 36.3992,
+        "longitude": 25.4793
+    },
+    {
+        "iata": "KDI",
+        "longitude": 122.418,
+        "name": "Wolter Monginsidi Airport (KDI)",
+        "latitude": -4.08161
+    },
+    {
+        "name": "Keflavik International Airport (KEF)",
+        "latitude": 63.985,
+        "longitude": -22.6056,
+        "iata": "KEF"
+    },
+    {
+        "latitude": -30.7894,
+        "name": "Kalgoorlie Boulder Airport (KGI)",
+        "longitude": 121.462,
+        "iata": "KGI"
+    },
+    {
+        "latitude": -1.96863,
+        "iata": "KGL",
+        "longitude": 30.1395,
+        "name": "Kigali International Airport (KGL)"
+    },
+    {
+        "iata": "KGS",
+        "latitude": 36.7933,
+        "name": "Kos Airport (KGS)",
+        "longitude": 27.0917
+    },
+    {
+        "latitude": 22.5771,
+        "longitude": 120.35,
+        "name": "Kaohsiung International Airport (KHH)",
+        "iata": "KHH"
+    },
+    {
+        "latitude": 24.9065,
+        "name": "Jinnah International Airport (KHI)",
+        "iata": "KHI",
+        "longitude": 67.1608
+    },
+    {
+        "name": "Nanchang Changbei International Airport (KHN)",
+        "latitude": 28.865,
+        "longitude": 115.9,
+        "iata": "KHN"
+    },
+    {
+        "name": "Khasab Air Base (KHS)",
+        "longitude": 56.2406,
+        "iata": "KHS",
+        "latitude": 26.171
+    },
+    {
+        "name": "Niigata Airport (KIJ)",
+        "latitude": 37.9559,
+        "iata": "KIJ",
+        "longitude": 139.121
+    },
+    {
+        "name": "Kirkuk Air Base (KIK)",
+        "latitude": 35.4695,
+        "longitude": 44.3489,
+        "iata": "KIK"
+    },
+    {
+        "name": "Norman Manley International Airport (KIN)",
+        "latitude": 17.9357,
+        "iata": "KIN",
+        "longitude": -76.7875
+    },
+    {
+        "name": "Chişinău International Airport (KIV)",
+        "latitude": 46.9277,
+        "iata": "KIV",
+        "longitude": 28.931
+    },
+    {
+        "iata": "KIX",
+        "latitude": 34.4305,
+        "longitude": 135.23,
+        "name": "Osaka Kansai International Airport (KIX)"
+    },
+    {
+        "iata": "KLX",
+        "longitude": 22.0255,
+        "latitude": 37.0683,
+        "name": "Kalamata Airport (KLX)"
+    },
+    {
+        "name": "Kunming Changshui International Airport (KMG)",
+        "latitude": 25.1019,
+        "longitude": 102.929,
+        "iata": "KMG"
+    },
+    {
+        "latitude": 31.8772,
+        "name": "Miyazaki Airport (KMI)",
+        "iata": "KMI",
+        "longitude": 131.449
+    },
+    {
+        "iata": "KMJ",
+        "longitude": 130.855,
+        "name": "Kumamoto Airport (KMJ)",
+        "latitude": 32.8373
+    },
+    {
+        "iata": "KMQ",
+        "latitude": 36.3946,
+        "name": "Komatsu Airport (KMQ)",
+        "longitude": 136.407
+    },
+    {
+        "latitude": 3.64222,
+        "longitude": 98.8853,
+        "iata": "KNO",
+        "name": "Kualanamu International Airport (KNO)"
+    },
+    {
+        "name": "Kununurra Airport (KNX)",
+        "latitude": -15.7781,
+        "longitude": 128.708,
+        "iata": "KNX"
+    },
+    {
+        "latitude": 19.7388,
+        "longitude": -156.046,
+        "name": "Kona International At Keahole Airport (KOA)",
+        "iata": "KOA"
+    },
+    {
+        "latitude": 31.8034,
+        "iata": "KOJ",
+        "longitude": 130.719,
+        "name": "Kagoshima Airport (KOJ)"
+    },
+    {
+        "name": "John Paul II International Airport Kraków-Balice Airport (KRK)",
+        "latitude": 50.0777,
+        "iata": "KRK",
+        "longitude": 19.7848
+    },
+    {
+        "iata": "KRS",
+        "longitude": 8.08537,
+        "name": "Kristiansand Airport (KRS)",
+        "latitude": 58.2042
+    },
+    {
+        "longitude": 162.958,
+        "iata": "KSA",
+        "latitude": 5.35698,
+        "name": "Kosrae International Airport (KSA)"
+    },
+    {
+        "longitude": 21.2411,
+        "latitude": 48.6631,
+        "iata": "KSC",
+        "name": "Košice Airport (KSC)"
+    },
+    {
+        "longitude": 116.773,
+        "latitude": -20.7122,
+        "iata": "KTA",
+        "name": "Karratha Airport (KTA)"
+    },
+    {
+        "iata": "KTM",
+        "latitude": 27.6966,
+        "longitude": 85.3591,
+        "name": "Tribhuvan International Airport (KTM)"
+    },
+    {
+        "latitude": 55.3556,
+        "iata": "KTN",
+        "name": "Ketchikan International Airport (KTN)",
+        "longitude": -131.714
+    },
+    {
+        "longitude": 101.71,
+        "name": "Kuala Lumpur International Airport (KUL)",
+        "latitude": 2.74558,
+        "iata": "KUL"
+    },
+    {
+        "name": "Alexander the Great International Airport (KVA)",
+        "iata": "KVA",
+        "latitude": 40.9133,
+        "longitude": 24.6192
+    },
+    {
+        "longitude": 167.732,
+        "name": "Bucholz Army Air Field (KWA)",
+        "latitude": 8.72012,
+        "iata": "KWA"
+    },
+    {
+        "name": "Longdongbao Airport (KWE)",
+        "iata": "KWE",
+        "latitude": 26.5385,
+        "longitude": 106.801
+    },
+    {
+        "iata": "KWI",
+        "latitude": 29.2266,
+        "name": "Kuwait International Airport (KWI)",
+        "longitude": 47.9689
+    },
+    {
+        "iata": "LAD",
+        "name": "Quatro de Fevereiro Airport (LAD)",
+        "longitude": 13.2312,
+        "latitude": -8.85837
+    },
+    {
+        "latitude": 42.7787,
+        "iata": "LAN",
+        "name": "Capital City Airport (LAN)",
+        "longitude": -84.5874
+    },
+    {
+        "latitude": 36.0801,
+        "iata": "LAS",
+        "name": "Las Vegas McCarran International Airport (LAS)",
+        "longitude": -115.152
+    },
+    {
+        "iata": "LAX",
+        "name": "Los Angeles International Airport (LAX)",
+        "latitude": 33.9425,
+        "longitude": -118.408
+    },
+    {
+        "name": "Lubbock Preston Smith International Airport (LBB)",
+        "longitude": -101.823,
+        "iata": "LBB",
+        "latitude": 33.6636
+    },
+    {
+        "latitude": -8.48666,
+        "longitude": 119.889,
+        "name": "Komodo (Mutiara II) Airport (LBJ)",
+        "iata": "LBJ"
+    },
+    {
+        "latitude": 37.0442,
+        "iata": "LBL",
+        "longitude": -100.96,
+        "name": "Liberal Mid-America Regional Airport (LBL)"
+    },
+    {
+        "iata": "LBR",
+        "name": "Lábrea Airport (LBR)",
+        "latitude": -7.27897,
+        "longitude": -64.7695
+    },
+    {
+        "latitude": 34.8751,
+        "iata": "LCA",
+        "name": "Larnaca International Airport (LCA)",
+        "longitude": 33.6249
+    },
+    {
+        "iata": "LCY",
+        "latitude": 51.5053,
+        "name": "London City Airport (LCY)",
+        "longitude": 0.055278
+    },
+    {
+        "longitude": -51.1301,
+        "latitude": -23.3336,
+        "iata": "LDB",
+        "name": "Governador José Richa Airport (LDB)"
+    },
+    {
+        "iata": "LDH",
+        "latitude": -31.5383,
+        "longitude": 159.077,
+        "name": "Lord Howe Island Airport (LDH)"
+    },
+    {
+        "latitude": -22.2356,
+        "iata": "LEA",
+        "longitude": 114.089,
+        "name": "Learmonth Airport (LEA)"
+    },
+    {
+        "iata": "LEB",
+        "longitude": -72.3042,
+        "name": "Lebanon Municipal Airport (LEB)",
+        "latitude": 43.6261
+    },
+    {
+        "latitude": 59.8003,
+        "name": "Pulkovo Airport (LED)",
+        "iata": "LED",
+        "longitude": 30.2625
+    },
+    {
+        "name": "Lafayette Regional Airport (LFT)",
+        "iata": "LFT",
+        "longitude": -91.9876,
+        "latitude": 30.2053
+    },
+    {
+        "name": "Lomé-Tokoin Airport (LFW)",
+        "iata": "LFW",
+        "latitude": 6.16561,
+        "longitude": 1.25451
+    },
+    {
+        "iata": "LGA",
+        "longitude": -73.875,
+        "latitude": 40.775,
+        "name": "La Guardia Airport (LGA)"
+    },
+    {
+        "longitude": -118.152,
+        "latitude": 33.8177,
+        "iata": "LGB",
+        "name": "Long Beach \/Daugherty Field\/ Airport (LGB)"
+    },
+    {
+        "name": "Langkawi International Airport (LGK)",
+        "latitude": 6.32973,
+        "iata": "LGK",
+        "longitude": 99.7287
+    },
+    {
+        "iata": "LGW",
+        "name": "London Gatwick Airport (LGW)",
+        "longitude": -0.190278,
+        "latitude": 51.1481
+    },
+    {
+        "latitude": 31.5216,
+        "name": "Alama Iqbal International Airport (LHE)",
+        "iata": "LHE",
+        "longitude": 74.4036
+    },
+    {
+        "name": "London Heathrow Airport (LHR)",
+        "latitude": 51.4775,
+        "iata": "LHR",
+        "longitude": -0.461389
+    },
+    {
+        "longitude": 103.62,
+        "name": "Lanzhou Zhongchuan Airport (LHW)",
+        "iata": "LHW",
+        "latitude": 36.5152
+    },
+    {
+        "longitude": -159.339,
+        "iata": "LIH",
+        "name": "Lihue Airport (LIH)",
+        "latitude": 21.976
+    },
+    {
+        "name": "Jorge Chávez International Airport (LIM)",
+        "longitude": -77.1143,
+        "latitude": -12.0219,
+        "iata": "LIM"
+    },
+    {
+        "iata": "LIN",
+        "name": "Milano Linate Airport (LIN)",
+        "latitude": 45.4494,
+        "longitude": 9.2783
+    },
+    {
+        "name": "Daniel Oduber Quiros International Airport (LIR)",
+        "longitude": -85.5444,
+        "iata": "LIR",
+        "latitude": 10.5933
+    },
+    {
+        "latitude": 38.7813,
+        "name": "Lisbon Portela Airport (LIS)",
+        "longitude": -9.13592,
+        "iata": "LIS"
+    },
+    {
+        "name": "Bill & Hillary Clinton National Airport\/Adams Field (LIT)",
+        "iata": "LIT",
+        "latitude": 34.7294,
+        "longitude": -92.2243
+    },
+    {
+        "name": "Ljubljana Jože Pučnik Airport (LJU)",
+        "latitude": 46.2237,
+        "iata": "LJU",
+        "longitude": 14.4576
+    },
+    {
+        "latitude": 26.7606,
+        "name": "Chaudhary Charan Singh International Airport (LKO)",
+        "iata": "LKO",
+        "longitude": 80.8893
+    },
+    {
+        "iata": "LLW",
+        "name": "Lilongwe International Airport (LLW)",
+        "latitude": -13.7894,
+        "longitude": 33.781
+    },
+    {
+        "longitude": 116.277,
+        "iata": "LOP",
+        "name": "Lombok International Airport (LOP)",
+        "latitude": -8.75732
+    },
+    {
+        "name": "Murtala Muhammed International Airport (LOS)",
+        "longitude": 3.32116,
+        "latitude": 6.57737,
+        "iata": "LOS"
+    },
+    {
+        "longitude": -15.3866,
+        "iata": "LPA",
+        "latitude": 27.9319,
+        "name": "Gran Canaria Airport (LPA)"
+    },
+    {
+        "longitude": -68.9118,
+        "latitude": 18.4507,
+        "iata": "LRM",
+        "name": "Casa De Campo International Airport (LRM)"
+    },
+    {
+        "latitude": -41.5453,
+        "iata": "LST",
+        "name": "Launceston Airport (LST)",
+        "longitude": 147.214
+    },
+    {
+        "longitude": -111.348,
+        "name": "Loreto International Airport (LTO)",
+        "iata": "LTO",
+        "latitude": 25.9892
+    },
+    {
+        "iata": "LUN",
+        "name": "Kenneth Kaunda International Airport Lusaka (LUN)",
+        "latitude": -15.3308,
+        "longitude": 28.4526
+    },
+    {
+        "name": "Luxembourg-Findel International Airport (LUX)",
+        "longitude": 6.20444,
+        "latitude": 49.6233,
+        "iata": "LUX"
+    },
+    {
+        "latitude": 29.2978,
+        "iata": "LXA",
+        "name": "Lhasa Gonggar Airport (LXA)",
+        "longitude": 90.9119
+    },
+    {
+        "latitude": 25.671,
+        "longitude": 32.7066,
+        "name": "Luxor International Airport (LXR)",
+        "iata": "LXR"
+    },
+    {
+        "iata": "LYA",
+        "name": "Luoyang Airport (LYA)",
+        "latitude": 34.7411,
+        "longitude": 112.388
+    },
+    {
+        "iata": "LYH",
+        "longitude": -79.2004,
+        "latitude": 37.3267,
+        "name": "Lynchburg Regional Preston Glenn Field (LYH)"
+    },
+    {
+        "name": "Lyon Saint-Exupéry Airport (LYS)",
+        "latitude": 45.7256,
+        "iata": "LYS",
+        "longitude": 5.08111
+    },
+    {
+        "latitude": 12.99,
+        "iata": "MAA",
+        "name": "Chennai International Airport (MAA)",
+        "longitude": 80.1693
+    },
+    {
+        "longitude": -3.56264,
+        "iata": "MAD",
+        "latitude": 40.4719,
+        "name": "Adolfo Suárez Madrid–Barajas Airport (MAD)"
+    },
+    {
+        "name": "Menorca Airport (MAH)",
+        "iata": "MAH",
+        "latitude": 39.8626,
+        "longitude": 4.21865
+    },
+    {
+        "longitude": 171.272,
+        "latitude": 7.06476,
+        "name": "Marshall Islands International Airport (MAJ)",
+        "iata": "MAJ"
+    },
+    {
+        "name": "Manchester Airport (MAN)",
+        "iata": "MAN",
+        "latitude": 53.3537,
+        "longitude": -2.27495
+    },
+    {
+        "name": "Eduardo Gomes International Airport (MAO)",
+        "latitude": -3.03861,
+        "iata": "MAO",
+        "longitude": -60.0497
+    },
+    {
+        "name": "Mombasa Moi International Airport (MBA)",
+        "longitude": 39.5942,
+        "iata": "MBA",
+        "latitude": -4.03483
+    },
+    {
+        "name": "Sangster International Airport (MBJ)",
+        "latitude": 18.5037,
+        "iata": "MBJ",
+        "longitude": -77.9134
+    },
+    {
+        "name": "Manistee Co Blacker Airport (MBL)",
+        "iata": "MBL",
+        "longitude": -86.2469,
+        "latitude": 44.2724
+    },
+    {
+        "iata": "MCI",
+        "latitude": 39.2976,
+        "name": "Kansas City International Airport (MCI)",
+        "longitude": -94.7139
+    },
+    {
+        "longitude": -81.309,
+        "iata": "MCO",
+        "name": "Orlando International Airport (MCO)",
+        "latitude": 28.4294
+    },
+    {
+        "iata": "MCP",
+        "latitude": 0.050664,
+        "longitude": -51.0722,
+        "name": "Alberto Alcolumbre Airport (MCP)"
+    },
+    {
+        "latitude": 23.5933,
+        "longitude": 58.2844,
+        "iata": "MCT",
+        "name": "Muscat International Airport (MCT)"
+    },
+    {
+        "iata": "MCY",
+        "name": "Sunshine Coast Airport (MCY)",
+        "longitude": 153.091,
+        "latitude": -26.6033
+    },
+    {
+        "iata": "MCZ",
+        "name": "Zumbi dos Palmares Airport (MCZ)",
+        "longitude": -35.7917,
+        "latitude": -9.51081
+    },
+    {
+        "name": "Sam Ratulangi Airport (MDC)",
+        "iata": "MDC",
+        "longitude": 124.926,
+        "latitude": 1.54926
+    },
+    {
+        "iata": "MDE",
+        "longitude": -75.4231,
+        "name": "Jose Maria Córdova International Airport (MDE)",
+        "latitude": 6.16454
+    },
+    {
+        "iata": "MDG",
+        "name": "Mudanjiang Hailang International Airport (MDG)",
+        "latitude": 44.5241,
+        "longitude": 129.569
+    },
+    {
+        "name": "Harrisburg International Airport (MDT)",
+        "latitude": 40.1935,
+        "longitude": -76.7634,
+        "iata": "MDT"
+    },
+    {
+        "iata": "MDW",
+        "longitude": -87.7525,
+        "latitude": 41.7861,
+        "name": "Chicago Midway International Airport (MDW)"
+    },
+    {
+        "iata": "MDZ",
+        "name": "El Plumerillo Airport (MDZ)",
+        "longitude": -68.7929,
+        "latitude": -32.8317
+    },
+    {
+        "name": "Middle East - Large Airports (MEA)",
+        "latitude": -22.343,
+        "iata": "MEA",
+        "longitude": -41.766
+    },
+    {
+        "longitude": -80.6788,
+        "iata": "MEC",
+        "name": "Eloy Alfaro International Airport (MEC)",
+        "latitude": -0.946078
+    },
+    {
+        "latitude": 24.5534,
+        "longitude": 39.7051,
+        "iata": "MED",
+        "name": "Prince Mohammad Bin Abdulaziz Airport (MED)"
+    },
+    {
+        "iata": "MEL",
+        "longitude": 144.843,
+        "name": "Melbourne International Airport (MEL)",
+        "latitude": -37.6733
+    },
+    {
+        "longitude": -89.9767,
+        "iata": "MEM",
+        "latitude": 35.0424,
+        "name": "Memphis International Airport (MEM)"
+    },
+    {
+        "name": "Licenciado Benito Juarez International Airport (MEX)",
+        "longitude": -99.0721,
+        "latitude": 19.4363,
+        "iata": "MEX"
+    },
+    {
+        "longitude": -98.2386,
+        "latitude": 26.1758,
+        "name": "Mc Allen Miller International Airport (MFE)",
+        "iata": "MFE"
+    },
+    {
+        "longitude": 113.592,
+        "iata": "MFM",
+        "latitude": 22.1496,
+        "name": "Macau International Airport (MFM)"
+    },
+    {
+        "latitude": 42.3742,
+        "longitude": -122.873,
+        "name": "Rogue Valley International Medford Airport (MFR)",
+        "iata": "MFR"
+    },
+    {
+        "name": "Augusto C. Sandino (Managua) International Airport (MGA)",
+        "latitude": 12.1415,
+        "iata": "MGA",
+        "longitude": -86.1682
+    },
+    {
+        "iata": "MGF",
+        "latitude": -23.4761,
+        "longitude": -52.0162,
+        "name": "Regional de Maringá - Sílvio Nane Junior Airport (MGF)"
+    },
+    {
+        "longitude": -86.394,
+        "latitude": 32.3006,
+        "name": "Montgomery Regional (Dannelly Field) Airport (MGM)",
+        "iata": "MGM"
+    },
+    {
+        "longitude": -77.0835,
+        "iata": "MHH",
+        "latitude": 26.5114,
+        "name": "Marsh Harbour International Airport (MHH)"
+    },
+    {
+        "name": "Manchester Airport (MHT)",
+        "longitude": -71.4357,
+        "latitude": 42.9326,
+        "iata": "MHT"
+    },
+    {
+        "iata": "MIA",
+        "name": "Miami International Airport (MIA)",
+        "longitude": -80.2906,
+        "latitude": 25.7932
+    },
+    {
+        "iata": "MID",
+        "latitude": 20.937,
+        "longitude": -89.6577,
+        "name": "Licenciado Manuel Crescencio Rejon Int Airport (MID)"
+    },
+    {
+        "iata": "MII",
+        "longitude": -49.9264,
+        "name": "Frank Miloye Milenkowichi–Marília State Airport (MII)",
+        "latitude": -22.1969
+    },
+    {
+        "iata": "MIW",
+        "latitude": 42.1128,
+        "name": "Midwest, United States (MIW)",
+        "longitude": -92.9178
+    },
+    {
+        "latitude": 42.9472,
+        "name": "General Mitchell International Airport (MKE)",
+        "longitude": -87.8966,
+        "iata": "MKE"
+    },
+    {
+        "latitude": -8.52029,
+        "name": "Mopah Airport (MKQ)",
+        "iata": "MKQ",
+        "longitude": 140.418
+    },
+    {
+        "iata": "MKY",
+        "name": "Mackay Airport (MKY)",
+        "latitude": -21.1717,
+        "longitude": 149.18
+    },
+    {
+        "name": "Malta International Airport (MLA)",
+        "iata": "MLA",
+        "longitude": 14.4775,
+        "latitude": 35.8575
+    },
+    {
+        "name": "Malé International Airport (MLE)",
+        "iata": "MLE",
+        "latitude": 4.19183,
+        "longitude": 73.5291
+    },
+    {
+        "name": "Ninoy Aquino International Airport (MNL)",
+        "latitude": 14.5086,
+        "iata": "MNL",
+        "longitude": 121.02
+    },
+    {
+        "longitude": -88.2428,
+        "latitude": 30.6912,
+        "name": "Mobile Regional Airport (MOB)",
+        "iata": "MOB"
+    },
+    {
+        "name": "Montpellier-Méditerranée Airport (MPL)",
+        "longitude": 3.96301,
+        "iata": "MPL",
+        "latitude": 43.5762
+    },
+    {
+        "iata": "MPM",
+        "latitude": -25.9208,
+        "name": "Maputo Airport (MPM)",
+        "longitude": 32.5726
+    },
+    {
+        "iata": "MPN",
+        "latitude": -51.8228,
+        "longitude": -58.4472,
+        "name": "Mount Pleasant Airport (MPN)"
+    },
+    {
+        "name": "Marseille Provence Airport (MRS)",
+        "latitude": 43.4393,
+        "iata": "MRS",
+        "longitude": 5.22142
+    },
+    {
+        "latitude": -20.4302,
+        "name": "Sir Seewoosagur Ramgoolam International Airport (MRU)",
+        "iata": "MRU",
+        "longitude": 57.6836
+    },
+    {
+        "iata": "MRY",
+        "latitude": 36.587,
+        "name": "Monterey Peninsula Airport (MRY)",
+        "longitude": -121.843
+    },
+    {
+        "name": "Dane County Regional Truax Field (MSN)",
+        "iata": "MSN",
+        "latitude": 43.1399,
+        "longitude": -89.3375
+    },
+    {
+        "iata": "MSO",
+        "name": "Missoula International Airport (MSO)",
+        "longitude": -114.091,
+        "latitude": 46.9163
+    },
+    {
+        "longitude": -93.2218,
+        "name": "Minneapolis-St Paul International\/Wold-Chamberlain Airport (MSP)",
+        "iata": "MSP",
+        "latitude": 44.882
+    },
+    {
+        "latitude": 29.9934,
+        "iata": "MSY",
+        "name": "Louis Armstrong New Orleans International Airport (MSY)",
+        "longitude": -90.258
+    },
+    {
+        "iata": "MTJ",
+        "latitude": 38.5098,
+        "name": "Montrose Regional Airport (MTJ)",
+        "longitude": -107.894
+    },
+    {
+        "name": "General Mariano Escobedo International Airport (MTY)",
+        "iata": "MTY",
+        "latitude": 25.7785,
+        "longitude": -100.107
+    },
+    {
+        "latitude": 48.3538,
+        "name": "Munich International Airport (MUC)",
+        "iata": "MUC",
+        "longitude": 11.7861
+    },
+    {
+        "name": "Carrasco International \/General C L Berisso Airport (MVD)",
+        "iata": "MVD",
+        "longitude": -56.0308,
+        "latitude": -34.8384
+    },
+    {
+        "name": "Dix-Sept Rosado Airport (MVF)",
+        "latitude": -5.20192,
+        "iata": "MVF",
+        "longitude": -37.3643
+    },
+    {
+        "iata": "MVY",
+        "latitude": 41.3931,
+        "name": "Martha's Vineyard Airport (MVY)",
+        "longitude": -70.6143
+    },
+    {
+        "iata": "MXC",
+        "longitude": -109.341,
+        "name": "Mexico - Large Airports (MXC)",
+        "latitude": 37.9324
+    },
+    {
+        "latitude": 32.6306,
+        "iata": "MXL",
+        "longitude": -115.242,
+        "name": "General Rodolfo Sánchez Taboada International Airport (MXL)"
+    },
+    {
+        "iata": "MXP",
+        "latitude": 45.6306,
+        "name": "Malpensa International Airport (MXP)",
+        "longitude": 8.72811
+    },
+    {
+        "longitude": 132.7,
+        "latitude": 33.8272,
+        "name": "Matsuyama Airport (MYJ)",
+        "iata": "MYJ"
+    },
+    {
+        "longitude": -78.9283,
+        "iata": "MYR",
+        "latitude": 33.6797,
+        "name": "Myrtle Beach International Airport (MYR)"
+    },
+    {
+        "latitude": -17.7554,
+        "iata": "NAN",
+        "name": "Nadi International Airport (NAN)",
+        "longitude": 177.443
+    },
+    {
+        "latitude": 30.7955,
+        "name": "Nanchong Airport (NAO)",
+        "longitude": 106.163,
+        "iata": "NAO"
+    },
+    {
+        "iata": "NAP",
+        "latitude": 40.886,
+        "name": "Naples International Airport (NAP)",
+        "longitude": 14.2908
+    },
+    {
+        "latitude": 25.039,
+        "longitude": -77.4662,
+        "name": "Lynden Pindling International Airport (NAS)",
+        "iata": "NAS"
+    },
+    {
+        "latitude": -5.76806,
+        "name": "Governador Aluízio Alves International Airport (NAT)",
+        "iata": "NAT",
+        "longitude": -35.3761
+    },
+    {
+        "longitude": 34.5345,
+        "latitude": 38.7719,
+        "iata": "NAV",
+        "name": "Nevşehir Kapadokya Airport (NAV)"
+    },
+    {
+        "iata": "NBO",
+        "name": "Jomo Kenyatta International Airport (NBO)",
+        "latitude": -1.31924,
+        "longitude": 36.9278
+    },
+    {
+        "iata": "NCE",
+        "name": "Nice-Côte d'Azur Airport (NCE)",
+        "latitude": 43.6584,
+        "longitude": 7.21587
+    },
+    {
+        "latitude": 55.0375,
+        "iata": "NCL",
+        "name": "Newcastle Airport (NCL)",
+        "longitude": -1.69167
+    },
+    {
+        "name": "Ningbo Lishe International Airport (NGB)",
+        "iata": "NGB",
+        "latitude": 29.8267,
+        "longitude": 121.462
+    },
+    {
+        "iata": "NGO",
+        "latitude": 34.8584,
+        "name": "Chubu Centrair International Airport (NGO)",
+        "longitude": 136.805
+    },
+    {
+        "longitude": 129.914,
+        "latitude": 32.9169,
+        "iata": "NGS",
+        "name": "Nagasaki Airport (NGS)"
+    },
+    {
+        "name": "Nanjing Lukou Airport (NKG)",
+        "latitude": 31.742,
+        "iata": "NKG",
+        "longitude": 118.862
+    },
+    {
+        "iata": "NLK",
+        "longitude": 167.939,
+        "name": "Norfolk Island International Airport (NLK)",
+        "latitude": -29.0416
+    },
+    {
+        "name": "Nanning Wuxu Airport (NNG)",
+        "longitude": 108.172,
+        "iata": "NNG",
+        "latitude": 22.6083
+    },
+    {
+        "iata": "NOS",
+        "longitude": 48.3148,
+        "latitude": -13.3121,
+        "name": "Fascene Airport (NOS)"
+    },
+    {
+        "latitude": -22.0146,
+        "name": "La Tontouta International Airport (NOU)",
+        "iata": "NOU",
+        "longitude": 166.213
+    },
+    {
+        "longitude": 140.386,
+        "latitude": 35.7653,
+        "iata": "NRT",
+        "name": "Narita International Airport (NRT)"
+    },
+    {
+        "name": "Newcastle Airport (NTL)",
+        "iata": "NTL",
+        "latitude": -32.795,
+        "longitude": 151.834
+    },
+    {
+        "name": "Nuremberg Airport (NUE)",
+        "longitude": 11.0781,
+        "iata": "NUE",
+        "latitude": 49.4987
+    },
+    {
+        "iata": "NVT",
+        "latitude": -26.88,
+        "name": "Ministro Victor Konder International Airport (NVT)",
+        "longitude": -48.6514
+    },
+    {
+        "longitude": -122.221,
+        "iata": "OAK",
+        "name": "Metropolitan Oakland International Airport (OAK)",
+        "latitude": 37.7213
+    },
+    {
+        "name": "Cacoal Airport (OAL)",
+        "iata": "OAL",
+        "longitude": -61.4508,
+        "latitude": -11.496
+    },
+    {
+        "iata": "OAX",
+        "longitude": -96.7266,
+        "name": "Xoxocotlán International Airport (OAX)",
+        "latitude": 16.9999
+    },
+    {
+        "iata": "OGG",
+        "longitude": -156.43,
+        "latitude": 20.8986,
+        "name": "Kahului Airport (OGG)"
+    },
+    {
+        "name": "Naha Airport (OKA)",
+        "iata": "OKA",
+        "latitude": 26.1958,
+        "longitude": 127.646
+    },
+    {
+        "name": "Will Rogers World Airport (OKC)",
+        "iata": "OKC",
+        "latitude": 35.3931,
+        "longitude": -97.6007
+    },
+    {
+        "longitude": 133.855,
+        "latitude": 34.7569,
+        "iata": "OKJ",
+        "name": "Okayama Airport (OKJ)"
+    },
+    {
+        "iata": "OLB",
+        "longitude": 9.51763,
+        "latitude": 40.8987,
+        "name": "Olbia Costa Smeralda Airport (OLB)"
+    },
+    {
+        "iata": "OMA",
+        "name": "Eppley Airfield (OMA)",
+        "latitude": 41.3032,
+        "longitude": -95.8941
+    },
+    {
+        "iata": "OME",
+        "name": "Nome Airport (OME)",
+        "latitude": 64.5122,
+        "longitude": -165.445
+    },
+    {
+        "name": "Onslow Airport (ONS)",
+        "iata": "ONS",
+        "latitude": -21.6683,
+        "longitude": 115.113
+    },
+    {
+        "longitude": -117.601,
+        "name": "Ontario International Airport (ONT)",
+        "latitude": 34.056,
+        "iata": "ONT"
+    },
+    {
+        "iata": "OOL",
+        "latitude": -28.1644,
+        "name": "Gold Coast Airport (OOL)",
+        "longitude": 153.505
+    },
+    {
+        "name": "Francisco de Sá Carneiro Airport (OPO)",
+        "iata": "OPO",
+        "latitude": 41.2356,
+        "longitude": -8.67806
+    },
+    {
+        "longitude": -55.5861,
+        "iata": "OPS",
+        "latitude": -11.885,
+        "name": "Presidente João Batista Figueiredo Airport (OPS)"
+    },
+    {
+        "latitude": 41.9786,
+        "iata": "ORD",
+        "name": "Chicago O'Hare International Airport (ORD)",
+        "longitude": -87.9047
+    },
+    {
+        "iata": "ORF",
+        "name": "Norfolk International Airport (ORF)",
+        "longitude": -76.2012,
+        "latitude": 36.8946
+    },
+    {
+        "iata": "ORH",
+        "name": "Worcester Regional Airport (ORH)",
+        "latitude": 42.2673,
+        "longitude": -71.8757
+    },
+    {
+        "latitude": 51.8413,
+        "iata": "ORK",
+        "longitude": -8.49111,
+        "name": "Cork Airport (ORK)"
+    },
+    {
+        "latitude": 35.6239,
+        "iata": "ORN",
+        "longitude": -0.621183,
+        "name": "Es Senia Airport (ORN)"
+    },
+    {
+        "latitude": 48.7231,
+        "longitude": 2.35944,
+        "iata": "ORY",
+        "name": "Paris-Orly Airport (ORY)"
+    },
+    {
+        "longitude": 11.1004,
+        "iata": "OSL",
+        "name": "Oslo Gardermoen Airport (OSL)",
+        "latitude": 60.1939
+    },
+    {
+        "name": "Henri Coandă International Airport (OTP)",
+        "longitude": 26.085,
+        "iata": "OTP",
+        "latitude": 44.5711
+    },
+    {
+        "name": "Snohomish County (Paine Field) Airport (PAE)",
+        "longitude": -122.282,
+        "iata": "PAE",
+        "latitude": 47.9063
+    },
+    {
+        "name": "Lok Nayak Jayaprakash Airport (PAT)",
+        "iata": "PAT",
+        "latitude": 25.5913,
+        "longitude": 85.088
+    },
+    {
+        "name": "Hermanos Serdán International Airport (PBC)",
+        "latitude": 19.1581,
+        "iata": "PBC",
+        "longitude": -98.3714
+    },
+    {
+        "latitude": 26.6832,
+        "longitude": -80.0956,
+        "iata": "PBI",
+        "name": "Palm Beach International Airport (PBI)"
+    },
+    {
+        "iata": "PBM",
+        "longitude": -55.1878,
+        "name": "Johan Adolf Pengel International Airport (PBM)",
+        "latitude": 5.45283
+    },
+    {
+        "name": "Tabing Airport (PDG)",
+        "latitude": -0.786917,
+        "iata": "PDG",
+        "longitude": 100.281
+    },
+    {
+        "name": "João Paulo II Airport (PDL)",
+        "iata": "PDL",
+        "longitude": -25.6979,
+        "latitude": 37.7412
+    },
+    {
+        "name": "Capitan Corbeta CA Curbelo International Airport (PDP)",
+        "iata": "PDP",
+        "longitude": -55.0943,
+        "latitude": -34.8551
+    },
+    {
+        "name": "Portland International Airport (PDX)",
+        "longitude": -122.598,
+        "latitude": 45.5887,
+        "iata": "PDX"
+    },
+    {
+        "name": "Matecaña International Airport (PEI)",
+        "longitude": -75.7395,
+        "latitude": 4.81267,
+        "iata": "PEI"
+    },
+    {
+        "iata": "PEK",
+        "longitude": 116.598,
+        "name": "Beijing Capital International Airport (PEK)",
+        "latitude": 40.0725
+    },
+    {
+        "name": "Penang International Airport (PEN)",
+        "longitude": 100.277,
+        "latitude": 5.29714,
+        "iata": "PEN"
+    },
+    {
+        "name": "Perth International Airport (PER)",
+        "latitude": -31.9403,
+        "iata": "PER",
+        "longitude": 115.967
+    },
+    {
+        "longitude": -52.3277,
+        "name": "João Simões Lopes Neto International Airport (PET)",
+        "latitude": -31.7184,
+        "iata": "PET"
+    },
+    {
+        "name": "Lauro Kurtz Airport (PFB)",
+        "latitude": -28.244,
+        "iata": "PFB",
+        "longitude": -52.3266
+    },
+    {
+        "name": "Port Hedland International Airport (PHE)",
+        "latitude": -20.3778,
+        "longitude": 118.626,
+        "iata": "PHE"
+    },
+    {
+        "latitude": 39.8719,
+        "longitude": -75.2411,
+        "iata": "PHL",
+        "name": "Philadelphia International Airport (PHL)"
+    },
+    {
+        "longitude": -112.012,
+        "latitude": 33.4343,
+        "iata": "PHX",
+        "name": "Phoenix Sky Harbor International Airport (PHX)"
+    },
+    {
+        "latitude": -2.67302,
+        "iata": "PIN",
+        "longitude": -56.7772,
+        "name": "Parintins Airport (PIN)"
+    },
+    {
+        "latitude": 40.4915,
+        "name": "Pittsburgh International Airport (PIT)",
+        "longitude": -80.2329,
+        "iata": "PIT"
+    },
+    {
+        "name": "Sultan Syarif Kasim Ii (Simpang Tiga) Airport (PKU)",
+        "longitude": 101.445,
+        "latitude": 0.460786,
+        "iata": "PKU"
+    },
+    {
+        "name": "Beijing Daxing International Airport (PKX)",
+        "iata": "PKX",
+        "latitude": 39.5091666667,
+        "longitude": 116.4105555556
+    },
+    {
+        "iata": "PKY",
+        "latitude": -2.22513,
+        "longitude": 113.943,
+        "name": "Tjilik Riwut Airport (PKY)"
+    },
+    {
+        "name": "Pellston Regional Airport of Emmet County Airport (PLN)",
+        "latitude": 45.5709,
+        "longitude": -84.7967,
+        "iata": "PLN"
+    },
+    {
+        "name": "Providenciales Airport (PLS)",
+        "latitude": 21.7736,
+        "longitude": -72.2659,
+        "iata": "PLS"
+    },
+    {
+        "latitude": -0.918542,
+        "longitude": 119.91,
+        "name": "Mutiara Airport (PLW)",
+        "iata": "PLW"
+    },
+    {
+        "name": "El Tepual Airport (PMC)",
+        "latitude": -41.4389,
+        "iata": "PMC",
+        "longitude": -73.094
+    },
+    {
+        "iata": "PMI",
+        "latitude": 39.5517,
+        "longitude": 2.73881,
+        "name": "Palma De Mallorca Airport (PMI)"
+    },
+    {
+        "name": "Falcone–Borsellino Airport (PMO)",
+        "iata": "PMO",
+        "latitude": 38.176,
+        "longitude": 13.091
+    },
+    {
+        "name": "Brigadeiro Lysias Rodrigues Airport (PMW)",
+        "latitude": -10.2915,
+        "longitude": -48.357,
+        "iata": "PMW"
+    },
+    {
+        "latitude": 11.5466,
+        "name": "Phnom Penh International Airport (PNH)",
+        "longitude": 104.844,
+        "iata": "PNH"
+    },
+    {
+        "longitude": 158.209,
+        "latitude": 6.9851,
+        "name": "Pohnpei International Airport (PNI)",
+        "iata": "PNI"
+    },
+    {
+        "latitude": -0.150711,
+        "longitude": 109.404,
+        "name": "Supadio Airport (PNK)",
+        "iata": "PNK"
+    },
+    {
+        "iata": "PNS",
+        "longitude": -87.1866,
+        "name": "Pensacola Regional Airport (PNS)",
+        "latitude": 30.4734
+    },
+    {
+        "iata": "PNT",
+        "name": "Tte. Julio Gallardo Airport (PNT)",
+        "longitude": -72.5284,
+        "latitude": -51.6715
+    },
+    {
+        "name": "Senador Nilo Coelho Airport (PNZ)",
+        "longitude": -40.5691,
+        "iata": "PNZ",
+        "latitude": -9.36241
+    },
+    {
+        "longitude": -51.1714,
+        "latitude": -29.9944,
+        "name": "Salgado Filho Airport (POA)",
+        "iata": "POA"
+    },
+    {
+        "iata": "POM",
+        "latitude": -9.44338,
+        "name": "Port Moresby Jacksons International Airport (POM)",
+        "longitude": 147.22
+    },
+    {
+        "longitude": -70.57,
+        "latitude": 19.7579,
+        "name": "Gregorio Luperon International Airport (POP)",
+        "iata": "POP"
+    },
+    {
+        "latitude": 10.5954,
+        "iata": "POS",
+        "name": "Piarco International Airport (POS)",
+        "longitude": -61.3372
+    },
+    {
+        "longitude": 16.8263,
+        "latitude": 52.421,
+        "name": "Poznań-Ławica Airport (POZ)",
+        "iata": "POZ"
+    },
+    {
+        "iata": "PPB",
+        "longitude": -51.4246,
+        "name": "Presidente Prudente Airport (PPB)",
+        "latitude": -22.1751
+    },
+    {
+        "name": "Pago Pago International Airport (PPG)",
+        "latitude": -14.331,
+        "iata": "PPG",
+        "longitude": -170.71
+    },
+    {
+        "latitude": -20.495,
+        "name": "Proserpine Whitsunday Coast Airport (PPP)",
+        "iata": "PPP",
+        "longitude": 148.552
+    },
+    {
+        "longitude": -149.607,
+        "latitude": -17.5537,
+        "name": "Faa'a International Airport (PPT)",
+        "iata": "PPT"
+    },
+    {
+        "iata": "PQC",
+        "name": "Phu Quoc International Airport (PQC)",
+        "latitude": 10.1698,
+        "longitude": 103.993
+    },
+    {
+        "iata": "PQI",
+        "longitude": -68.0448,
+        "latitude": 46.689,
+        "name": "Northern Maine Regional Airport at Presque Isle (PQI)"
+    },
+    {
+        "longitude": 152.863,
+        "name": "Port Macquarie Airport (PQQ)",
+        "latitude": -31.4358,
+        "iata": "PQQ"
+    },
+    {
+        "iata": "PRC",
+        "longitude": -112.42,
+        "name": "Ernest A. Love Field (PRC)",
+        "latitude": 34.6545
+    },
+    {
+        "longitude": 14.26,
+        "latitude": 50.1008,
+        "iata": "PRG",
+        "name": "Václav Havel Airport Prague (PRG)"
+    },
+    {
+        "longitude": 10.3927,
+        "latitude": 43.6839,
+        "name": "Pisa International Airport (PSA)",
+        "iata": "PSA"
+    },
+    {
+        "longitude": -119.119,
+        "latitude": 46.2647,
+        "iata": "PSC",
+        "name": "Tri Cities Airport (PSC)"
+    },
+    {
+        "latitude": 18.0083,
+        "iata": "PSE",
+        "name": "Mercedita Airport (PSE)",
+        "longitude": -66.563
+    },
+    {
+        "iata": "PSP",
+        "longitude": -116.507,
+        "name": "Palm Springs International Airport (PSP)",
+        "latitude": 33.8297
+    },
+    {
+        "iata": "PTP",
+        "longitude": -61.5318,
+        "latitude": 16.2653,
+        "name": "Pointe-à-Pitre Le Raizet (PTP)"
+    },
+    {
+        "longitude": -79.3835,
+        "latitude": 9.07136,
+        "iata": "PTY",
+        "name": "Tocumen International Airport (PTY)"
+    },
+    {
+        "name": "Punta Cana International Airport (PUJ)",
+        "iata": "PUJ",
+        "longitude": -68.3634,
+        "latitude": 18.5674
+    },
+    {
+        "name": "Pdte. carlos Ibañez del Campo Airport (PUQ)",
+        "latitude": -53.0026,
+        "longitude": -70.8546,
+        "iata": "PUQ"
+    },
+    {
+        "name": "Gimhae International Airport (PUS)",
+        "latitude": 35.1795,
+        "iata": "PUS",
+        "longitude": 128.938
+    },
+    {
+        "latitude": 42.0719,
+        "longitude": -70.2214,
+        "name": "Provincetown Municipal Airport (PVC)",
+        "iata": "PVC"
+    },
+    {
+        "latitude": 41.7326,
+        "name": "Theodore Francis Green State Airport (PVD)",
+        "iata": "PVD",
+        "longitude": -71.4204
+    },
+    {
+        "longitude": 121.805,
+        "iata": "PVG",
+        "latitude": 31.1434,
+        "name": "Shanghai Pudong International Airport (PVG)"
+    },
+    {
+        "latitude": -8.70929,
+        "longitude": -63.9023,
+        "iata": "PVH",
+        "name": "Governador Jorge Teixeira de Oliveira Airport (PVH)"
+    },
+    {
+        "name": "Licenciado Gustavo Díaz Ordaz International Airport (PVR)",
+        "iata": "PVR",
+        "latitude": 20.6801,
+        "longitude": -105.254
+    },
+    {
+        "iata": "PWM",
+        "latitude": 43.6462,
+        "longitude": -70.3093,
+        "name": "Portland International Jetport Airport (PWM)"
+    },
+    {
+        "latitude": 15.8769,
+        "iata": "PXM",
+        "name": "Puerto Escondido International Airport (PXM)",
+        "longitude": -97.0891
+    },
+    {
+        "iata": "QRO",
+        "latitude": 20.6173,
+        "name": "Querétaro Intercontinental Airport (QRO)",
+        "longitude": -100.186
+    },
+    {
+        "iata": "RAI",
+        "latitude": 14.9245,
+        "name": "Praia International Airport (RAI)",
+        "longitude": -23.4935
+    },
+    {
+        "latitude": 31.6069,
+        "longitude": -8.0363,
+        "iata": "RAK",
+        "name": "Menara Airport (RAK)"
+    },
+    {
+        "iata": "RAO",
+        "longitude": -47.7767,
+        "latitude": -21.1364,
+        "name": "Leite Lopes Airport (RAO)"
+    },
+    {
+        "name": "Rapid City Regional Airport (RAP)",
+        "iata": "RAP",
+        "latitude": 44.0453,
+        "longitude": -103.057
+    },
+    {
+        "iata": "RAR",
+        "name": "Rarotonga International Airport (RAR)",
+        "longitude": -159.806,
+        "latitude": -21.2027
+    },
+    {
+        "longitude": -122.293,
+        "iata": "RDD",
+        "name": "Redding Municipal Airport (RDD)",
+        "latitude": 40.509
+    },
+    {
+        "iata": "RDM",
+        "name": "Roberts Field (RDM)",
+        "latitude": 44.2541,
+        "longitude": -121.15
+    },
+    {
+        "longitude": -78.7875,
+        "iata": "RDU",
+        "name": "Raleigh Durham International Airport (RDU)",
+        "latitude": 35.8776
+    },
+    {
+        "name": "Guararapes - Gilberto Freyre International Airport (REC)",
+        "latitude": -8.12649,
+        "iata": "REC",
+        "longitude": -34.9236
+    },
+    {
+        "longitude": 103.813,
+        "latitude": 13.4107,
+        "iata": "REP",
+        "name": "Siem Reap International Airport (REP)"
+    },
+    {
+        "name": "Piloto Civil N. Fernández Airport (RGL)",
+        "latitude": -51.6089,
+        "longitude": -69.3126,
+        "iata": "RGL"
+    },
+    {
+        "latitude": 16.9073,
+        "name": "Yangon International Airport (RGN)",
+        "iata": "RGN",
+        "longitude": 96.1332
+    },
+    {
+        "iata": "RHO",
+        "name": "Diagoras Airport (RHO)",
+        "longitude": 28.0862,
+        "latitude": 36.4054
+    },
+    {
+        "longitude": -53.6882,
+        "name": "Santa Maria Airport (RIA)",
+        "iata": "RIA",
+        "latitude": -29.7114
+    },
+    {
+        "latitude": 37.5052,
+        "name": "Richmond International Airport (RIC)",
+        "iata": "RIC",
+        "longitude": -77.3197
+    },
+    {
+        "longitude": 23.9711,
+        "latitude": 56.9236,
+        "iata": "RIX",
+        "name": "Riga International Airport (RIX)"
+    },
+    {
+        "name": "Knox County Regional Airport (RKD)",
+        "longitude": -69.0992,
+        "iata": "RKD",
+        "latitude": 44.0601
+    },
+    {
+        "name": "Marsa Alam International Airport (RMF)",
+        "longitude": 34.5837,
+        "latitude": 25.5571,
+        "iata": "RMF"
+    },
+    {
+        "name": "Reno Tahoe International Airport (RNO)",
+        "latitude": 39.4991,
+        "longitude": -119.768,
+        "iata": "RNO"
+    },
+    {
+        "iata": "ROA",
+        "latitude": 37.3255,
+        "longitude": -79.9754,
+        "name": "Roanoke–Blacksburg Regional Airport (ROA)"
+    },
+    {
+        "name": "Greater Rochester International Airport (ROC)",
+        "iata": "ROC",
+        "latitude": 43.1189,
+        "longitude": -77.6724
+    },
+    {
+        "iata": "ROK",
+        "name": "Rockhampton Airport (ROK)",
+        "latitude": -23.3819,
+        "longitude": 150.475
+    },
+    {
+        "iata": "ROR",
+        "name": "Babelthuap Airport (ROR)",
+        "latitude": 7.36731,
+        "longitude": 134.544
+    },
+    {
+        "iata": "ROT",
+        "latitude": -38.1092,
+        "longitude": 176.317,
+        "name": "Rotorua Regional Airport (ROT)"
+    },
+    {
+        "name": "Southwest Florida International Airport (RSW)",
+        "longitude": -81.7552,
+        "iata": "RSW",
+        "latitude": 26.5362
+    },
+    {
+        "iata": "RTB",
+        "longitude": -86.523,
+        "name": "Juan Manuel Galvez International Airport (RTB)",
+        "latitude": 16.3168
+    },
+    {
+        "longitude": 46.6988,
+        "name": "King Khaled International Airport (RUH)",
+        "iata": "RUH",
+        "latitude": 24.9576
+    },
+    {
+        "latitude": -20.8871,
+        "name": "Roland Garros Airport (RUN)",
+        "iata": "RUN",
+        "longitude": 55.5103
+    },
+    {
+        "iata": "RUT",
+        "name": "Rutland - Southern Vermont Regional Airport (RUT)",
+        "longitude": -72.9496,
+        "latitude": 43.5294
+    },
+    {
+        "longitude": -50.9561,
+        "latitude": -17.8347,
+        "iata": "RVD",
+        "name": "General Leite de Castro Airport (RVD)"
+    },
+    {
+        "iata": "RVN",
+        "longitude": 25.8304,
+        "latitude": 66.5648,
+        "name": "Rovaniemi Airport (RVN)"
+    },
+    {
+        "latitude": 50.11,
+        "iata": "RZE",
+        "longitude": 22.019,
+        "name": "Rzeszów-Jasionka Airport (RZE)"
+    },
+    {
+        "iata": "SAF",
+        "latitude": 35.6171,
+        "longitude": -106.089,
+        "name": "Santa Fe Municipal Airport (SAF)"
+    },
+    {
+        "iata": "SAL",
+        "latitude": 13.4408,
+        "longitude": -89.0556,
+        "name": "El Salvador International Airport (SAL)"
+    },
+    {
+        "name": "South America - Large Airports (SAM)",
+        "latitude": -9.6701,
+        "longitude": 150.79,
+        "iata": "SAM"
+    },
+    {
+        "latitude": 32.7336,
+        "longitude": -117.19,
+        "name": "San Diego International Airport (SAN)",
+        "iata": "SAN"
+    },
+    {
+        "iata": "SAP",
+        "longitude": -87.9236,
+        "name": "Ramón Villeda Morales International Airport (SAP)",
+        "latitude": 15.4526
+    },
+    {
+        "iata": "SAS",
+        "name": "Southeast Asia - Large Airports (SAS)",
+        "latitude": 33.2414,
+        "longitude": -115.952
+    },
+    {
+        "name": "San Antonio International Airport (SAT)",
+        "latitude": 29.5337,
+        "longitude": -98.4698,
+        "iata": "SAT"
+    },
+    {
+        "name": "Savannah Hilton Head International Airport (SAV)",
+        "latitude": 32.1276,
+        "longitude": -81.2021,
+        "iata": "SAV"
+    },
+    {
+        "name": "Sabiha Gökçen International Airport (SAW)",
+        "latitude": 40.8986,
+        "iata": "SAW",
+        "longitude": 29.3092
+    },
+    {
+        "name": "Santa Barbara Municipal Airport (SBA)",
+        "latitude": 34.4262,
+        "iata": "SBA",
+        "longitude": -119.84
+    },
+    {
+        "latitude": 35.2368,
+        "longitude": -120.642,
+        "name": "San Luis County Regional Airport (SBP)",
+        "iata": "SBP"
+    },
+    {
+        "name": "University Park Airport (SCE)",
+        "iata": "SCE",
+        "longitude": -77.8487,
+        "latitude": 40.8493
+    },
+    {
+        "longitude": -73.9289,
+        "iata": "SCH",
+        "latitude": 42.8525,
+        "name": "Schengen Area - Large Airports (SCH)"
+    },
+    {
+        "name": "Santiago International Airport (SCL)",
+        "iata": "SCL",
+        "latitude": -33.3928,
+        "longitude": -70.7856
+    },
+    {
+        "iata": "SCQ",
+        "name": "Santiago de Compostela Airport (SCQ)",
+        "latitude": 42.8963,
+        "longitude": -8.41514
+    },
+    {
+        "iata": "SCU",
+        "name": "Antonio Maceo International Airport (SCU)",
+        "longitude": -75.8354,
+        "latitude": 19.9698
+    },
+    {
+        "longitude": -85.736,
+        "latitude": 38.1744,
+        "name": "Louisville International Standiford Field (SDF)",
+        "iata": "SDF"
+    },
+    {
+        "iata": "SDJ",
+        "name": "Sendai Airport (SDJ)",
+        "longitude": 140.917,
+        "latitude": 38.1397
+    },
+    {
+        "latitude": 18.4297,
+        "name": "Las Américas International Airport (SDQ)",
+        "longitude": -69.6689,
+        "iata": "SDQ"
+    },
+    {
+        "latitude": -22.906329708,
+        "longitude": -43.157832702,
+        "name": "Santos Dumont Airport (SDU)",
+        "iata": "SDU"
+    },
+    {
+        "longitude": -122.309,
+        "iata": "SEA",
+        "latitude": 47.449,
+        "name": "Seattle Tacoma International Airport (SEA)"
+    },
+    {
+        "longitude": 55.5218,
+        "name": "Seychelles International Airport (SEZ)",
+        "iata": "SEZ",
+        "latitude": -4.67434
+    },
+    {
+        "name": "San Francisco International Airport (SFO)",
+        "latitude": 37.619,
+        "iata": "SFO",
+        "longitude": -122.375
+    },
+    {
+        "longitude": -93.3886,
+        "latitude": 37.2457,
+        "name": "Springfield Branson National Airport (SGF)",
+        "iata": "SGF"
+    },
+    {
+        "longitude": 106.652,
+        "name": "Tan Son Nhat International Airport (SGN)",
+        "iata": "SGN",
+        "latitude": 10.8188
+    },
+    {
+        "latitude": 37.0364,
+        "name": "St George Municipal Airport (SGU)",
+        "iata": "SGU",
+        "longitude": -113.51
+    },
+    {
+        "longitude": 121.336,
+        "iata": "SHA",
+        "latitude": 31.1979,
+        "name": "Shanghai Hongqiao International Airport (SHA)"
+    },
+    {
+        "latitude": 41.6398,
+        "name": "Taoxian Airport (SHE)",
+        "iata": "SHE",
+        "longitude": 123.483
+    },
+    {
+        "iata": "SHJ",
+        "longitude": 55.5172,
+        "name": "Sharjah International Airport (SHJ)",
+        "latitude": 25.3286
+    },
+    {
+        "latitude": 32.4466,
+        "name": "Shreveport Regional Airport (SHV)",
+        "longitude": -93.8256,
+        "iata": "SHV"
+    },
+    {
+        "name": "Amílcar Cabral International Airport (SID)",
+        "iata": "SID",
+        "latitude": 16.7414,
+        "longitude": -22.9494
+    },
+    {
+        "latitude": 1.35019,
+        "name": "Singapore Changi Airport (SIN)",
+        "iata": "SIN",
+        "longitude": 103.994
+    },
+    {
+        "longitude": -135.362,
+        "iata": "SIT",
+        "name": "Sitka Rocky Gutierrez Airport (SIT)",
+        "latitude": 57.0471
+    },
+    {
+        "iata": "SJC",
+        "longitude": -121.929,
+        "name": "Norman Y. Mineta San Jose International Airport (SJC)",
+        "latitude": 37.3626
+    },
+    {
+        "latitude": 23.1518,
+        "iata": "SJD",
+        "name": "Los Cabos International Airport (SJD)",
+        "longitude": -109.721
+    },
+    {
+        "longitude": 18.3315,
+        "iata": "SJJ",
+        "latitude": 43.8246,
+        "name": "Sarajevo International Airport (SJJ)"
+    },
+    {
+        "iata": "SJL",
+        "name": "São Gabriel da Cachoeira Airport (SJL)",
+        "latitude": -0.14835,
+        "longitude": -66.9855
+    },
+    {
+        "latitude": 9.99386,
+        "iata": "SJO",
+        "name": "Juan Santamaria International Airport (SJO)",
+        "longitude": -84.2088
+    },
+    {
+        "name": "Prof. Eribelto Manoel Reino State Airport (SJP)",
+        "latitude": -20.8166,
+        "iata": "SJP",
+        "longitude": -49.4065
+    },
+    {
+        "name": "Luis Munoz Marin International Airport (SJU)",
+        "latitude": 18.4394,
+        "iata": "SJU",
+        "longitude": -66.0018
+    },
+    {
+        "longitude": 114.697,
+        "iata": "SJW",
+        "name": "Shijiazhuang Daguocun International Airport (SJW)",
+        "latitude": 38.2807
+    },
+    {
+        "latitude": 17.3112,
+        "longitude": -62.7187,
+        "name": "Robert L. Bradshaw International Airport (SKB)",
+        "iata": "SKB"
+    },
+    {
+        "longitude": 22.9709,
+        "iata": "SKG",
+        "latitude": 40.5197,
+        "name": "Thessaloniki Macedonia International Airport (SKG)"
+    },
+    {
+        "latitude": 41.9616,
+        "longitude": 21.6214,
+        "name": "Skopje Alexander the Great Airport (SKP)",
+        "iata": "SKP"
+    },
+    {
+        "iata": "SKT",
+        "longitude": 74.3639,
+        "name": "Sialkot Airport (SKT)",
+        "latitude": 32.5356
+    },
+    {
+        "latitude": 40.7884,
+        "name": "Salt Lake City International Airport (SLC)",
+        "iata": "SLC",
+        "longitude": -111.978
+    },
+    {
+        "iata": "SLK",
+        "name": "Adirondack Regional Airport (SLK)",
+        "latitude": 44.3853,
+        "longitude": -74.2062
+    },
+    {
+        "name": "Salalah Airport (SLL)",
+        "iata": "SLL",
+        "latitude": 17.0387,
+        "longitude": 54.0913
+    },
+    {
+        "name": "Ponciano Arriaga International Airport (SLP)",
+        "iata": "SLP",
+        "latitude": 22.2543,
+        "longitude": -100.931
+    },
+    {
+        "longitude": -44.2341,
+        "latitude": -2.58536,
+        "name": "Marechal Cunha Machado International Airport (SLZ)",
+        "iata": "SLZ"
+    },
+    {
+        "iata": "SMF",
+        "latitude": 38.6954,
+        "longitude": -121.591,
+        "name": "Sacramento International Airport (SMF)"
+    },
+    {
+        "latitude": 37.69,
+        "longitude": 26.9117,
+        "name": "Samos Airport (SMI)",
+        "iata": "SMI"
+    },
+    {
+        "name": "Simón Bolívar International Airport (SMR)",
+        "longitude": -74.2306,
+        "iata": "SMR",
+        "latitude": 11.1196
+    },
+    {
+        "latitude": 33.6757,
+        "iata": "SNA",
+        "longitude": -117.868,
+        "name": "John Wayne Airport-Orange County Airport (SNA)"
+    },
+    {
+        "longitude": -8.92482,
+        "iata": "SNN",
+        "name": "Shannon Airport (SNN)",
+        "latitude": 52.702
+    },
+    {
+        "latitude": 22.4922,
+        "iata": "SNU",
+        "longitude": -79.9436,
+        "name": "Abel Santamaria Airport (SNU)"
+    },
+    {
+        "iata": "SOC",
+        "latitude": -7.51609,
+        "longitude": 110.757,
+        "name": "Adi Sumarmo Wiryokusumo Airport (SOC)"
+    },
+    {
+        "latitude": 42.6967,
+        "name": "Sofia Airport (SOF)",
+        "longitude": 23.4114,
+        "iata": "SOF"
+    },
+    {
+        "iata": "SOQ",
+        "longitude": 131.287,
+        "name": "Dominique Edward Osok Airport (SOQ)",
+        "latitude": -0.894
+    },
+    {
+        "iata": "SOU",
+        "name": "Southampton Airport (SOU)",
+        "latitude": 50.9503,
+        "longitude": -1.3568
+    },
+    {
+        "iata": "SPC",
+        "name": "La Palma Airport (SPC)",
+        "longitude": -17.7556,
+        "latitude": 28.6265
+    },
+    {
+        "iata": "SPN",
+        "name": "Saipan International Airport (SPN)",
+        "latitude": 15.119,
+        "longitude": 145.729
+    },
+    {
+        "iata": "SPU",
+        "name": "Split Airport (SPU)",
+        "latitude": 43.5389,
+        "longitude": 16.298
+    },
+    {
+        "iata": "SRA",
+        "name": "Santa Rosa Airport (SRA)",
+        "latitude": -27.9067,
+        "longitude": -54.5204
+    },
+    {
+        "latitude": -6.97273,
+        "name": "Achmad Yani Airport (SRG)",
+        "iata": "SRG",
+        "longitude": 110.375
+    },
+    {
+        "name": "Sarasota Bradenton International Airport (SRQ)",
+        "longitude": -82.5544,
+        "latitude": 27.3954,
+        "iata": "SRQ"
+    },
+    {
+        "name": "Deputado Luiz Eduardo Magalhães International Airport (SSA)",
+        "iata": "SSA",
+        "latitude": -12.9086,
+        "longitude": -38.3225
+    },
+    {
+        "name": "Cibao International Airport (STI)",
+        "latitude": 19.4061,
+        "longitude": -70.6047,
+        "iata": "STI"
+    },
+    {
+        "iata": "STL",
+        "latitude": 38.7487,
+        "longitude": -90.37,
+        "name": "Lambert St Louis International Airport (STL)"
+    },
+    {
+        "latitude": -2.42472,
+        "iata": "STM",
+        "longitude": -54.7858,
+        "name": "Maestro Wilson Fonseca Airport (STM)"
+    },
+    {
+        "iata": "STN",
+        "name": "London Stansted Airport (STN)",
+        "latitude": 51.885,
+        "longitude": 0.235
+    },
+    {
+        "longitude": 9.22196,
+        "latitude": 48.6899,
+        "name": "Stuttgart Airport (STR)",
+        "iata": "STR"
+    },
+    {
+        "iata": "STS",
+        "longitude": -122.813,
+        "name": "Charles M. Schulz Sonoma County Airport (STS)",
+        "latitude": 38.509
+    },
+    {
+        "iata": "STT",
+        "longitude": -64.9734,
+        "name": "Cyril E. King Airport (STT)",
+        "latitude": 18.3373
+    },
+    {
+        "latitude": 17.7019,
+        "longitude": -64.7986,
+        "iata": "STX",
+        "name": "Henry E Rohlsen Airport (STX)"
+    },
+    {
+        "latitude": -7.37983,
+        "name": "Juanda International Airport (SUB)",
+        "iata": "SUB",
+        "longitude": 112.787
+    },
+    {
+        "latitude": 38.9054,
+        "iata": "SUF",
+        "name": "Lamezia Terme Airport (SUF)",
+        "longitude": 16.2423
+    },
+    {
+        "name": "Friedman Memorial Airport (SUN)",
+        "longitude": -114.296,
+        "iata": "SUN",
+        "latitude": 43.5044
+    },
+    {
+        "longitude": 178.559,
+        "name": "Nausori International Airport (SUV)",
+        "latitude": -18.0433,
+        "iata": "SUV"
+    },
+    {
+        "name": "Sioux Gateway Col. Bud Day Field (SUX)",
+        "iata": "SUX",
+        "longitude": -96.3844,
+        "latitude": 42.4026
+    },
+    {
+        "iata": "SVD",
+        "name": "E. T. Joshua Airport (SVD)",
+        "longitude": -61.2109,
+        "latitude": 13.1443
+    },
+    {
+        "longitude": 5.63778,
+        "name": "Stavanger Airport Sola (SVG)",
+        "latitude": 58.8767,
+        "iata": "SVG"
+    },
+    {
+        "latitude": 55.9728,
+        "iata": "SVO",
+        "longitude": 37.4147,
+        "name": "Sheremetyevo International Airport (SVO)"
+    },
+    {
+        "iata": "SVQ",
+        "name": "Sevilla Airport (SVQ)",
+        "longitude": -5.89311,
+        "latitude": 37.418
+    },
+    {
+        "longitude": 116.503,
+        "latitude": 23.552,
+        "iata": "SWA",
+        "name": "Jieyang Chaoshan International Airport (SWA)"
+    },
+    {
+        "name": "Strasbourg Airport (SXB)",
+        "longitude": 7.62823,
+        "latitude": 48.5383,
+        "iata": "SXB"
+    },
+    {
+        "name": "Princess Juliana International Airport (SXM)",
+        "iata": "SXM",
+        "longitude": -63.1089,
+        "latitude": 18.041
+    },
+    {
+        "latitude": 33.9871,
+        "name": "Sheikh ul Alam Airport (SXR)",
+        "longitude": 74.7742,
+        "iata": "SXR"
+    },
+    {
+        "latitude": -33.9461,
+        "longitude": 151.177,
+        "iata": "SYD",
+        "name": "Sydney Kingsford Smith International Airport (SYD)"
+    },
+    {
+        "name": "Syracuse Hancock International Airport (SYR)",
+        "latitude": 43.1112,
+        "iata": "SYR",
+        "longitude": -76.1063
+    },
+    {
+        "longitude": 109.412,
+        "name": "Sanya Phoenix International Airport (SYX)",
+        "latitude": 18.3029,
+        "iata": "SYX"
+    },
+    {
+        "name": "Samsun Çarşamba Airport (SZF)",
+        "latitude": 41.2545,
+        "iata": "SZF",
+        "longitude": 36.5671
+    },
+    {
+        "latitude": 47.7933,
+        "iata": "SZG",
+        "name": "Salzburg Airport (SZG)",
+        "longitude": 13.0043
+    },
+    {
+        "name": "Shenzhen Bao'an International Airport (SZX)",
+        "longitude": 113.811,
+        "latitude": 22.6393,
+        "iata": "SZX"
+    },
+    {
+        "latitude": 11.1497,
+        "longitude": -60.8322,
+        "iata": "TAB",
+        "name": "Tobago-Crown Point Airport (TAB)"
+    },
+    {
+        "iata": "TAK",
+        "longitude": 134.016,
+        "name": "Takamatsu Airport (TAK)",
+        "latitude": 34.2142
+    },
+    {
+        "longitude": 120.374,
+        "name": "Liuting Airport (TAO)",
+        "iata": "TAO",
+        "latitude": 36.2661
+    },
+    {
+        "longitude": 69.2812,
+        "name": "Tashkent International Airport (TAS)",
+        "latitude": 41.2579,
+        "iata": "TAS"
+    },
+    {
+        "latitude": 41.6692,
+        "name": "Tbilisi International Airport (TBS)",
+        "iata": "TBS",
+        "longitude": 44.9547
+    },
+    {
+        "latitude": -4.25567,
+        "iata": "TBT",
+        "name": "Tabatinga Airport (TBT)",
+        "longitude": -69.9358
+    },
+    {
+        "longitude": -175.15,
+        "latitude": -21.2412,
+        "iata": "TBU",
+        "name": "Fua'amotu International Airport (TBU)"
+    },
+    {
+        "iata": "TFF",
+        "name": "Tefé Airport (TFF)",
+        "longitude": -64.7241,
+        "latitude": -3.38294
+    },
+    {
+        "latitude": 28.48278,
+        "longitude": -16.34167,
+        "name": "Tenerife Norte Airport (TFN)",
+        "iata": "TFN"
+    },
+    {
+        "latitude": 28.045,
+        "longitude": -16.5752777778,
+        "iata": "TFS",
+        "name": "Tenerife South Airport (TFS)"
+    },
+    {
+        "longitude": 104.445,
+        "name": "Chengdu Tianfu International Airport (TFU)",
+        "latitude": 30.319,
+        "iata": "TFU"
+    },
+    {
+        "iata": "TGD",
+        "longitude": 19.2519,
+        "name": "Podgorica Airport (TGD)",
+        "latitude": 42.3594
+    },
+    {
+        "latitude": -5.05994,
+        "longitude": -42.8235,
+        "iata": "THE",
+        "name": "Senador Petrônio Portela Airport (THE)"
+    },
+    {
+        "name": "Tirana International Airport Mother Teresa (TIA)",
+        "latitude": 41.4147,
+        "longitude": 19.7206,
+        "iata": "TIA"
+    },
+    {
+        "name": "General Abelardo L. Rodríguez International Airport (TIJ)",
+        "iata": "TIJ",
+        "latitude": 32.5411,
+        "longitude": -116.97
+    },
+    {
+        "latitude": -4.52828,
+        "name": "Moses Kilangin Airport (TIM)",
+        "iata": "TIM",
+        "longitude": 136.887
+    },
+    {
+        "iata": "TIV",
+        "longitude": 18.7233,
+        "name": "Tivat Airport (TIV)",
+        "latitude": 42.4047
+    },
+    {
+        "longitude": -51.6842,
+        "name": "Plínio Alarcom Airport (TJL)",
+        "latitude": -20.7542,
+        "iata": "TJL"
+    },
+    {
+        "iata": "TKG",
+        "latitude": -5.24056,
+        "longitude": 105.176,
+        "name": "Radin Inten II (Branti) Airport (TKG)"
+    },
+    {
+        "latitude": 7.46187,
+        "iata": "TKK",
+        "name": "Chuuk International Airport (TKK)",
+        "longitude": 151.843
+    },
+    {
+        "name": "Tallahassee Regional Airport (TLH)",
+        "latitude": 30.3965,
+        "iata": "TLH",
+        "longitude": -84.3503
+    },
+    {
+        "latitude": 59.4133,
+        "longitude": 24.8328,
+        "name": "Lennart Meri Tallinn Airport (TLL)",
+        "iata": "TLL"
+    },
+    {
+        "latitude": 43.6291,
+        "iata": "TLS",
+        "longitude": 1.36382,
+        "name": "Toulouse-Blagnac Airport (TLS)"
+    },
+    {
+        "name": "Ben Gurion International Airport (TLV)",
+        "latitude": 32.0114,
+        "iata": "TLV",
+        "longitude": 34.8867
+    },
+    {
+        "longitude": 6.71215,
+        "name": "São Tomé International Airport (TMS)",
+        "latitude": 0.378175,
+        "iata": "TMS"
+    },
+    {
+        "longitude": 117.216,
+        "name": "Yaoqiang Airport (TNA)",
+        "iata": "TNA",
+        "latitude": 36.8572
+    },
+    {
+        "longitude": -5.91689,
+        "iata": "TNG",
+        "name": "Ibn Batouta Airport (TNG)",
+        "latitude": 35.7269
+    },
+    {
+        "latitude": -18.7969,
+        "longitude": 47.4788,
+        "name": "Ivato Airport (TNR)",
+        "iata": "TNR"
+    },
+    {
+        "longitude": 18.9189,
+        "iata": "TOS",
+        "name": "Tromsø Airport (TOS)",
+        "latitude": 69.6833
+    },
+    {
+        "iata": "TOY",
+        "name": "Toyama Airport (TOY)",
+        "longitude": 137.188,
+        "latitude": 36.6483
+    },
+    {
+        "iata": "TPA",
+        "longitude": -82.5332,
+        "latitude": 27.9755,
+        "name": "Tampa International Airport (TPA)"
+    },
+    {
+        "longitude": 121.233,
+        "iata": "TPE",
+        "name": "Taiwan Taoyuan International Airport (TPE)",
+        "latitude": 25.0777
+    },
+    {
+    	"latitude": 20.2269,
+    	"longitude": -87.4336,
+        "name": "Tulum International Airport (TQO)",
+        "iata": "TQO"
+    },
+    {
+        "iata": "TRC",
+        "latitude": 25.5683,
+        "name": "Francisco Sarabia International Airport (TRC)",
+        "longitude": -103.411
+    },
+    {
+        "iata": "TRN",
+        "name": "Turin Airport (TRN)",
+        "latitude": 45.2008,
+        "longitude": 7.64963
+    },
+    {
+        "latitude": 8.48212,
+        "name": "Trivandrum International Airport (TRV)",
+        "longitude": 76.9201,
+        "iata": "TRV"
+    },
+    {
+        "longitude": 173.147,
+        "iata": "TRW",
+        "latitude": 1.38164,
+        "name": "Bonriki International Airport (TRW)"
+    },
+    {
+        "name": "Taipei Songshan Airport (TSA)",
+        "longitude": 121.552,
+        "latitude": 25.0694,
+        "iata": "TSA"
+    },
+    {
+        "latitude": 39.1244,
+        "longitude": 117.346,
+        "name": "Tianjin Binhai International Airport (TSN)",
+        "iata": "TSN"
+    },
+    {
+        "name": "Townsville Airport (TSV)",
+        "latitude": -19.2525,
+        "iata": "TSV",
+        "longitude": 146.765
+    },
+    {
+        "name": "Tulsa International Airport (TUL)",
+        "iata": "TUL",
+        "latitude": 36.1984,
+        "longitude": -95.8881
+    },
+    {
+        "name": "Tunis Carthage International Airport (TUN)",
+        "latitude": 36.8511,
+        "iata": "TUN",
+        "longitude": 10.2272
+    },
+    {
+        "name": "Tucson International Airport (TUS)",
+        "latitude": 32.1161,
+        "longitude": -110.941,
+        "iata": "TUS"
+    },
+    {
+        "iata": "TVC",
+        "latitude": 44.7414,
+        "longitude": -85.5822,
+        "name": "Cherry Capital Airport (TVC)"
+    },
+    {
+        "iata": "TYN",
+        "longitude": 112.628,
+        "latitude": 37.7469,
+        "name": "Taiyuan Wusu Airport (TYN)"
+    },
+    {
+        "longitude": -83.994,
+        "latitude": 35.811,
+        "name": "McGhee Tyson Airport (TYS)",
+        "iata": "TYS"
+    },
+    {
+        "name": "Trabzon International Airport (TZX)",
+        "latitude": 40.9951,
+        "longitude": 39.7897,
+        "iata": "TZX"
+    },
+    {
+        "name": "United Airlines - Major Hubs (UAH)",
+        "longitude": -139.552,
+        "iata": "UAH",
+        "latitude": -8.93611
+    },
+    {
+        "longitude": 106.822,
+        "name": "Ulaanbaatar Chinggis Khaan International Airport (UBN)",
+        "latitude": 47.6516,
+        "iata": "UBN"
+    },
+    {
+        "iata": "UDI",
+        "latitude": -18.8836,
+        "longitude": -48.2253,
+        "name": "Ten. Cel. Aviador César Bombonato Airport (UDI)"
+    },
+    {
+        "name": "Maharana Pratap Airport (UDR)",
+        "longitude": 73.8961,
+        "latitude": 24.6177,
+        "iata": "UDR"
+    },
+    {
+        "iata": "UIO",
+        "longitude": -78.3575,
+        "latitude": -0.129167,
+        "name": "Mariscal Sucre International Airport (UIO)"
+    },
+    {
+        "longitude": 119.554,
+        "iata": "UPG",
+        "name": "Hasanuddin International Airport (UPG)",
+        "latitude": -5.06163
+    },
+    {
+        "name": "Ürümqi Diwopu International Airport (URC)",
+        "latitude": 43.9071,
+        "longitude": 87.4742,
+        "iata": "URC"
+    },
+    {
+        "longitude": -57.0382,
+        "iata": "URG",
+        "latitude": -29.7822,
+        "name": "Rubem Berta Airport (URG)"
+    },
+    {
+        "iata": "USA",
+        "name": "United States - Large Airports (USA)",
+        "latitude": 35.3878,
+        "longitude": -80.7091
+    },
+    {
+        "longitude": -60.9526,
+        "name": "Hewanorra International Airport (UVF)",
+        "iata": "UVF",
+        "latitude": 13.7332
+    },
+    {
+        "name": "Varna Airport (VAR)",
+        "iata": "VAR",
+        "latitude": 43.2321,
+        "longitude": 27.8251
+    },
+    {
+        "iata": "VCE",
+        "name": "Venice Marco Polo Airport (VCE)",
+        "latitude": 45.5053,
+        "longitude": 12.3519
+    },
+    {
+        "name": "Viracopos International Airport (VCP)",
+        "iata": "VCP",
+        "latitude": -23.0072222222,
+        "longitude": -47.1361111111
+    },
+    {
+        "name": "Vitória da Conquista Airport (VDC)",
+        "longitude": -40.8631,
+        "latitude": -14.8628,
+        "iata": "VDC"
+    },
+    {
+        "iata": "VER",
+        "latitude": 19.1459,
+        "name": "General Heriberto Jara International Airport (VER)",
+        "longitude": -96.1873
+    },
+    {
+        "latitude": -18.0959,
+        "iata": "VFA",
+        "name": "Victoria Falls International Airport (VFA)",
+        "longitude": 25.839
+    },
+    {
+        "latitude": 42.2318,
+        "name": "Vigo Airport (VGO)",
+        "longitude": -8.62677,
+        "iata": "VGO"
+    },
+    {
+        "longitude": 16.5697,
+        "name": "Vienna International Airport (VIE)",
+        "latitude": 48.1103,
+        "iata": "VIE"
+    },
+    {
+        "name": "Eurico de Aguiar Salles Airport (VIX)",
+        "latitude": -20.2581,
+        "longitude": -40.2864,
+        "iata": "VIX"
+    },
+    {
+        "iata": "VKO",
+        "name": "Vnukovo International Airport (VKO)",
+        "latitude": 55.590997636,
+        "longitude": 37.267165598
+    },
+    {
+        "iata": "VLC",
+        "name": "Valencia Airport (VLC)",
+        "latitude": 39.4893,
+        "longitude": -0.481625
+    },
+    {
+        "longitude": -83.2767,
+        "iata": "VLD",
+        "name": "Valdosta Regional Airport (VLD)",
+        "latitude": 30.7825
+    },
+    {
+        "iata": "VLI",
+        "longitude": 168.32,
+        "name": "Bauerfield International Airport (VLI)",
+        "latitude": -17.6993
+    },
+    {
+        "name": "Vilnius International Airport (VNO)",
+        "latitude": 54.6341,
+        "longitude": 25.2858,
+        "iata": "VNO"
+    },
+    {
+        "name": "Lal Bahadur Shastri Airport (VNS)",
+        "latitude": 25.4524,
+        "longitude": 82.8593,
+        "iata": "VNS"
+    },
+    {
+        "longitude": -86.5254,
+        "iata": "VPS",
+        "name": "Destin-Ft Walton Beach Airport (VPS)",
+        "latitude": 30.4832
+    },
+    {
+        "longitude": -81.4353,
+        "name": "Juan Gualberto Gomez International Airport (VRA)",
+        "latitude": 23.0344,
+        "iata": "VRA"
+    },
+    {
+        "iata": "VVI",
+        "name": "Viru Viru International Airport (VVI)",
+        "latitude": -17.6448,
+        "longitude": -63.1354
+    },
+    {
+        "name": "São Pedro Airport (VXE)",
+        "latitude": 16.8332,
+        "iata": "VXE",
+        "longitude": -25.0553
+    },
+    {
+        "iata": "WAW",
+        "name": "Warsaw Chopin Airport (WAW)",
+        "latitude": 52.1657,
+        "longitude": 20.9671
+    },
+    {
+        "iata": "WDH",
+        "longitude": 17.4709,
+        "name": "Hosea Kutako International Airport (WDH)",
+        "latitude": -22.4799
+    },
+    {
+        "longitude": 141.925,
+        "name": "Weipa Airport (WEI)",
+        "iata": "WEI",
+        "latitude": -12.6786
+    },
+    {
+        "iata": "WLG",
+        "name": "Wellington International Airport (WLG)",
+        "latitude": -41.3272,
+        "longitude": 174.805
+    },
+    {
+        "longitude": 120.852,
+        "latitude": 27.9122,
+        "iata": "WNZ",
+        "name": "Wenzhou Yongqiang Airport (WNZ)"
+    },
+    {
+        "latitude": 51.1027,
+        "iata": "WRO",
+        "longitude": 16.8858,
+        "name": "Copernicus Wrocław Airport (WRO)"
+    },
+    {
+        "latitude": 41.3496,
+        "name": "West Coast, United States (WST)",
+        "iata": "WST",
+        "longitude": -71.8034
+    },
+    {
+        "longitude": 114.208,
+        "latitude": 30.7838,
+        "name": "Wuhan Tianhe International Airport (WUH)",
+        "iata": "WUH"
+    },
+    {
+        "longitude": 120.429,
+        "name": "Sunan Shuofang International Airport (WUX)",
+        "latitude": 31.4944,
+        "iata": "WUX"
+    },
+    {
+        "name": "Serafin Enoss Bertaso Airport (XAP)",
+        "latitude": -27.1342,
+        "iata": "XAP",
+        "longitude": -52.6566
+    },
+    {
+        "latitude": -10.4506,
+        "name": "Christmas Island Airport (XCH)",
+        "iata": "XCH",
+        "longitude": 105.69
+    },
+    {
+        "longitude": 108.752,
+        "latitude": 34.4471,
+        "iata": "XIY",
+        "name": "Xi'an Xianyang International Airport (XIY)"
+    },
+    {
+        "name": "Xiamen Gaoqi International Airport (XMN)",
+        "latitude": 24.544,
+        "iata": "XMN",
+        "longitude": 118.128
+    },
+    {
+        "iata": "XNA",
+        "longitude": -94.3068,
+        "latitude": 36.2819,
+        "name": "Northwest Arkansas Regional Airport (XNA)"
+    },
+    {
+        "longitude": 102.043,
+        "iata": "XNN",
+        "name": "Xining Caojiabu Airport (XNN)",
+        "latitude": 36.5275
+    },
+    {
+        "longitude": -87.6212,
+        "name": "Coronel Enrique Soto Cano Air Base (XPL)",
+        "latitude": 14.3824,
+        "iata": "XPL"
+    },
+    {
+        "name": "Jerez Airport (XRY)",
+        "latitude": 36.7446,
+        "longitude": -6.06011,
+        "iata": "XRY"
+    },
+    {
+        "iata": "YAM",
+        "name": "Sault Ste Marie Airport (YAM)",
+        "latitude": 46.485,
+        "longitude": -84.5094
+    },
+    {
+        "latitude": 9.49891,
+        "longitude": 138.083,
+        "iata": "YAP",
+        "name": "Yap International Airport (YAP)"
+    },
+    {
+        "latitude": 52.9275,
+        "longitude": -82.4319,
+        "name": "Attawapiskat Airport (YAT)",
+        "iata": "YAT"
+    },
+    {
+        "latitude": 49.2964,
+        "iata": "YCG",
+        "longitude": -117.632,
+        "name": "Castlegar\/West Kootenay Regional Airport (YCG)"
+    },
+    {
+        "name": "Edmonton International Airport (YEG)",
+        "iata": "YEG",
+        "latitude": 53.3080555556,
+        "longitude": -113.5930555556
+    },
+    {
+        "latitude": 68.3042,
+        "iata": "YEV",
+        "longitude": -133.483,
+        "name": "Inuvik Mike Zubko Airport (YEV)"
+    },
+    {
+        "name": "Iqaluit Airport (YFB)",
+        "iata": "YFB",
+        "latitude": 63.7564,
+        "longitude": -68.5558
+    },
+    {
+        "name": "Fredericton Airport (YFC)",
+        "longitude": -66.5372,
+        "iata": "YFC",
+        "latitude": 45.8689
+    },
+    {
+        "iata": "YFS",
+        "longitude": -121.237,
+        "latitude": 61.7602,
+        "name": "Fort Simpson Airport (YFS)"
+    },
+    {
+        "iata": "YGZ",
+        "longitude": -82.9092,
+        "name": "Grise Fiord Airport (YGZ)",
+        "latitude": 76.4261
+    },
+    {
+        "name": "Ulukhaktok Holman Airport (YHI)",
+        "longitude": -117.806,
+        "latitude": 70.7628,
+        "iata": "YHI"
+    },
+    {
+        "iata": "YHK",
+        "latitude": 68.6356,
+        "name": "Gjoa Haven Airport (YHK)",
+        "longitude": -95.8497
+    },
+    {
+        "name": "John C. Munro Hamilton International Airport (YHM)",
+        "iata": "YHM",
+        "longitude": -79.935,
+        "latitude": 43.1736
+    },
+    {
+        "longitude": -63.5086,
+        "iata": "YHZ",
+        "latitude": 44.8808,
+        "name": "Halifax \/ Stanfield International Airport (YHZ)"
+    },
+    {
+        "latitude": 50.7022,
+        "longitude": -120.444,
+        "name": "Kamloops Airport (YKA)",
+        "iata": "YKA"
+    },
+    {
+        "longitude": -119.378,
+        "iata": "YLW",
+        "name": "Kelowna International Airport (YLW)",
+        "latitude": 49.9561
+    },
+    {
+        "iata": "YMM",
+        "latitude": 56.6533,
+        "name": "Fort McMurray Airport (YMM)",
+        "longitude": -111.222
+    },
+    {
+        "iata": "YMO",
+        "latitude": 51.2911,
+        "name": "Moosonee Airport (YMO)",
+        "longitude": -80.6078
+    },
+    {
+        "name": "Yantai Laishan Airport (YNT)",
+        "longitude": 120.987,
+        "iata": "YNT",
+        "latitude": 37.6572
+    },
+    {
+        "iata": "YNZ",
+        "name": "Yancheng Airport (YNZ)",
+        "latitude": 33.4258,
+        "longitude": 120.203
+    },
+    {
+        "name": "Ottawa Macdonald-Cartier International Airport (YOW)",
+        "iata": "YOW",
+        "longitude": -75.6692,
+        "latitude": 45.3225
+    },
+    {
+        "latitude": 46.7911,
+        "longitude": -71.3933,
+        "iata": "YQB",
+        "name": "Quebec Jean Lesage International Airport (YQB)"
+    },
+    {
+        "latitude": 42.2756,
+        "iata": "YQG",
+        "name": "Windsor Airport (YQG)",
+        "longitude": -82.9556
+    },
+    {
+        "name": "Greater Moncton International Airport (YQM)",
+        "iata": "YQM",
+        "latitude": 46.1122,
+        "longitude": -64.6786
+    },
+    {
+        "longitude": -104.666,
+        "iata": "YQR",
+        "name": "Regina International Airport (YQR)",
+        "latitude": 50.4319
+    },
+    {
+        "longitude": -94.9694,
+        "name": "Resolute Bay Airport (YRB)",
+        "iata": "YRB",
+        "latitude": 74.7169
+    },
+    {
+        "longitude": -92.1158,
+        "iata": "YRT",
+        "latitude": 62.8114,
+        "name": "Rankin Inlet Airport (YRT)"
+    },
+    {
+        "name": "Saint John Airport (YSJ)",
+        "iata": "YSJ",
+        "latitude": 45.3161,
+        "longitude": -65.8903
+    },
+    {
+        "name": "Timmins\/Victor M. Power (YTS)",
+        "longitude": -81.3767,
+        "latitude": 48.5697,
+        "iata": "YTS"
+    },
+    {
+        "iata": "YTZ",
+        "longitude": -79.396,
+        "name": "Billy Bishop Toronto City Centre Airport (YTZ)",
+        "latitude": 43.6285
+    },
+    {
+        "latitude": 45.4657,
+        "iata": "YUL",
+        "name": "Montreal \/ Pierre Elliott Trudeau International Airport (YUL)",
+        "longitude": -73.7455
+    },
+    {
+        "iata": "YUM",
+        "latitude": 32.6566,
+        "name": "Yuma MCAS\/Yuma International Airport (YUM)",
+        "longitude": -114.606
+    },
+    {
+        "latitude": 58.0961,
+        "name": "Kuujjuaq Airport (YVP)",
+        "longitude": -68.4269,
+        "iata": "YVP"
+    },
+    {
+        "longitude": -126.798,
+        "name": "Norman Wells Airport (YVQ)",
+        "latitude": 65.2816,
+        "iata": "YVQ"
+    },
+    {
+        "iata": "YVR",
+        "latitude": 49.1939,
+        "longitude": -123.184,
+        "name": "Vancouver International Airport (YVR)"
+    },
+    {
+        "latitude": 49.91,
+        "longitude": -97.2399,
+        "name": "Winnipeg \/ James Armstrong Richardson International Airport (YWG)",
+        "iata": "YWG"
+    },
+    {
+        "iata": "YXC",
+        "name": "Cranbrook\/Canadian Rockies International Airport (YXC)",
+        "longitude": -115.782,
+        "latitude": 49.6108
+    },
+    {
+        "longitude": -106.7,
+        "latitude": 52.1708,
+        "name": "Saskatoon John G. Diefenbaker International Airport (YXE)",
+        "iata": "YXE"
+    },
+    {
+        "iata": "YXT",
+        "latitude": 54.4685,
+        "name": "Northwest Regional Airport Terrace-Kitimat (YXT)",
+        "longitude": -128.576
+    },
+    {
+        "iata": "YXU",
+        "longitude": -81.1539,
+        "latitude": 43.0356,
+        "name": "London Airport (YXU)"
+    },
+    {
+        "name": "Whitehorse \/ Erik Nielsen International Airport (YXY)",
+        "latitude": 60.7096,
+        "longitude": -135.067,
+        "iata": "YXY"
+    },
+    {
+        "name": "North Bay Airport (YYB)",
+        "longitude": -79.4228,
+        "latitude": 46.3636,
+        "iata": "YYB"
+    },
+    {
+        "longitude": -114.02,
+        "name": "Calgary International Airport (YYC)",
+        "iata": "YYC",
+        "latitude": 51.1139
+    },
+    {
+        "iata": "YYG",
+        "name": "Charlottetown Airport (YYG)",
+        "latitude": 46.29,
+        "longitude": -63.1211
+    },
+    {
+        "name": "Victoria International Airport (YYJ)",
+        "iata": "YYJ",
+        "latitude": 48.6469,
+        "longitude": -123.426
+    },
+    {
+        "longitude": -52.7519,
+        "latitude": 47.6186,
+        "iata": "YYT",
+        "name": "St. John's International Airport (YYT)"
+    },
+    {
+        "iata": "YYZ",
+        "latitude": 43.6797,
+        "longitude": -79.6227,
+        "name": "Toronto Pearson International Airport (YYZ)"
+    },
+    {
+        "longitude": -114.44,
+        "iata": "YZF",
+        "name": "Yellowknife Airport (YZF)",
+        "latitude": 62.4628
+    },
+    {
+        "iata": "YZP",
+        "longitude": -131.814,
+        "name": "Sandspit Airport (YZP)",
+        "latitude": 53.2543
+    },
+    {
+        "name": "Zemunik Airport (ZAD)",
+        "iata": "ZAD",
+        "latitude": 44.1083,
+        "longitude": 15.3467
+    },
+    {
+        "longitude": 16.0688,
+        "iata": "ZAG",
+        "name": "Zagreb Airport (ZAG)",
+        "latitude": 45.7429
+    },
+    {
+        "latitude": 22.8971,
+        "iata": "ZCL",
+        "name": "General Leobardo C. Ruiz International Airport (ZCL)",
+        "longitude": -102.687
+    },
+    {
+        "longitude": -101.461,
+        "iata": "ZIH",
+        "latitude": 17.6016,
+        "name": "Ixtapa Zihuatanejo International Airport (ZIH)"
+    },
+    {
+        "name": "Playa De Oro International Airport (ZLO)",
+        "longitude": -104.559,
+        "latitude": 19.1448,
+        "iata": "ZLO"
+    },
+    {
+        "iata": "ZNE",
+        "latitude": -23.4178,
+        "name": "Newman Airport (ZNE)",
+        "longitude": 119.803
+    },
+    {
+        "latitude": -6.22202,
+        "iata": "ZNZ",
+        "name": "Abeid Amani Karume International Airport (ZNZ)",
+        "longitude": 39.2249
+    },
+    {
+        "latitude": -45.0211,
+        "name": "Queenstown International Airport (ZQN)",
+        "longitude": 168.739,
+        "iata": "ZQN"
+    },
+    {
+        "latitude": 47.4647,
+        "longitude": 8.54917,
+        "name": "Zürich Airport (ZRH)",
+        "iata": "ZRH"
+    },
+    {
+        "latitude": 37.7509,
+        "longitude": 20.8843,
+        "iata": "ZTH",
+        "name": "Dionysios Solomos Airport (ZTH)"
+    }
+]
